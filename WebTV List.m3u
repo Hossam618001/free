@@ -12,7 +12,7 @@ http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",post sport
 https://tv.qmedia.ps/hls/tv_HD/index.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",post tv hd
-https://tv.qmedia.ps/hls/post_HD/index.m3u8
+http://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",horyaa-sport1
 http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",horyaa-sport2
