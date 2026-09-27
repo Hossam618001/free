@@ -11,8 +11,18 @@ https://mtechmeet.online:5443/LiveApp/streams/live_qa7t90.m3u8
 https://samatv.net/api/ts_proxy.php?url=http%3A%2F%2Fsamamaxtv.com%3A80%2Flive%2Fiptv52300%2F767771541651%2F7727.ts
 #EXTINF:-1 group-title="PAL.HOSSAM",sama aflam 
 https://samatv.net/api/ts_proxy.php?url=http%3A%2F%2Fsamamaxtv.com%3A80%2Flive%2Fiptv52294%2F167287012717%2F7735.ts
-#EXTINF:-1 group-title="PAL.HOSSAM", system tv
+#EXTINF:-1 group-title="PAL.HOSSAM",system tv
 https://flu.systemnet.tv/systemnet/index.m3u8
+#EXTINF:-1 group-title="PAL.HOSSAM",zain tv
+https://htvmada.mada.ps:4443/zaintv/index.m3u8
+#EXTINF:-1 group-title="PAL.HOSSAM",baha kids
+http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
+#EXTINF:-1 group-title="PAL.HOSSAM",baha2 kids
+http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
+#EXTINF:-1 group-title="PAL.HOSSAM",adwaa nabls
+https://flu.systemnet.tv/adwaa/index.m3u8
+#EXTINF:-1 group-title="PAL.HOSSAM",hekaya tv
+https://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",horyaa-sport1
 http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",horyaa-sport2
