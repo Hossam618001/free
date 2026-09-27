@@ -3,15 +3,15 @@
 http://eds-stream.com/play/live.php?mac=00:1A:79:56:40:E3&stream=1163412&extension=ts&play_token=TdHD19QaD6
 #EXTINF:-1 group-title="PAL.HOSSAM",AL FAJER 2 FHD
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",الاقصي
+#EXTINF:-1 group-title="PAL.HOSSAM",Alaqsa
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",سما فلسطين
+#EXTINF:-1 group-title="PAL.HOSSAM",sama ps
 https://mtechmeet.online:5443/LiveApp/streams/live_qa7t90.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",سما آسيوي
+#EXTINF:-1 group-title="PAL.HOSSAM",sama fantazia
 https://samatv.net/api/ts_proxy.php?url=http%3A%2F%2Fsamamaxtv.com%3A80%2Flive%2Fiptv52300%2F767771541651%2F7727.ts
-#EXTINF:-1 group-title="PAL.HOSSAM",سما افلام
+#EXTINF:-1 group-title="PAL.HOSSAM",sama aflam 
 https://samatv.net/api/ts_proxy.php?url=http%3A%2F%2Fsamamaxtv.com%3A80%2Flive%2Fiptv52294%2F167287012717%2F7735.ts
-#EXTINF:-1 group-title="PAL.HOSSAM",تلفزيون سيستم
+#EXTINF:-1 group-title="PAL.HOSSAM", system tv
 https://flu.systemnet.tv/systemnet/index.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",horyaa-sport1
 http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
