@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="PAL.HOSSAM",AL FAJER 1 FHD
-http://live.alfajertv.com:2052/hls/ftv1/index.m3u8
+http://eds-stream.com/play/live.php?mac=00:1A:79:56:40:E3&stream=1163412&extension=ts&play_token=TdHD19QaD6
 #EXTINF:-1 group-title="PAL.HOSSAM",AL FAJER 2 FHD
-http://live.alfajertv.com:2052/hls2/ftv2/index.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",AL FAJER 3 FHD
-http://live.alfajertv.com:2052/hls3/ftv3/index.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",AL FAJER 4 FHD
-http://live.alfajertv.com:2052/hls4/ftv4/index.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",AL FAJER 5 FHD
-http://live.alfajertv.com:2052/hls5/ftv5/index.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",post sport
-https://tv.qmedia.ps/hls/tv_HD/index.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",post tv hd
-http://av.alarabiya.net/alarabiapublish/alhadath_720p/chunks.m3u8
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 group-title="PAL.HOSSAM",الاقصي
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 group-title="PAL.HOSSAM",سما فلسطين
+https://mtechmeet.online:5443/LiveApp/streams/live_qa7t90.m3u8
+#EXTINF:-1 group-title="PAL.HOSSAM",سما آسيوي
+https://samatv.net/api/ts_proxy.php?url=http%3A%2F%2Fsamamaxtv.com%3A80%2Flive%2Fiptv52300%2F767771541651%2F7727.ts
+#EXTINF:-1 group-title="PAL.HOSSAM",سما افلام
+https://samatv.net/api/ts_proxy.php?url=http%3A%2F%2Fsamamaxtv.com%3A80%2Flive%2Fiptv52294%2F167287012717%2F7735.ts
+#EXTINF:-1 group-title="PAL.HOSSAM",تلفزيون سيستم
+https://flu.systemnet.tv/systemnet/index.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",horyaa-sport1
 http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",horyaa-sport2
