@@ -39,7 +39,9 @@ http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/chunks.m3u8
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",HOSSAM-SAT.Salam.tv
 http://htvmada.mada.ps:8888/salamtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",HOSSAM-SAT.Salam world
+#EXTINF:-1 group-title="PAL.HOSSAM",HOSSAM-SAT.Salam wolrd
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttp%3A%2F%2Fhtvint.mada.ps%3A8889%2F%2Fsalamtv%2Ftracks-v1a1%2Fmono.m3u8
+#EXTINF:-1 group-title="PAL.HOSSAM",HOSSAM-SAT.Salam2
 http://188.225.225.227:1935/mylive/alsalam/myStream/index.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",hossam9618001-ajyal-HD
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
@@ -49,12 +51,12 @@ http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",hossam.9618001-halaTV
 http://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",hossam.9618001-halaTV-360p
-http://live1.panet.co.il/edge_abr/halaTV/edge_abr/halaTV_360p/chunks.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",hos.sam.9618001-WattanHD-mada
 http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",kol.alnas-Black.saT*9618001
 http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="PAL.HOSSAM",kol.alnas-World
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttp%3A%2F%2Fhtvmada.mada.ps%3A8888%2Fkolalnas%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",raya1-BlAck/sat*9618001
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",nabls quran
@@ -67,19 +69,8 @@ http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",ho.ss.am 9618001-rehan-hd
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",ho.ss.am 9618001-mazaj-hd
-https://htvmada.mada.ps:4443/royalgroup/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",ho.ss.am 9618001-baladna-hd
-http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",ho.ss.am 9618001-nabluslive-hd
-http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",ho.ss.am 9618001-MawwalHD
 http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",Kol alnas 
-https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttp%3A%2F%2Fhtvmada.mada.ps%3A8888%2Fkolalnas%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",ho.Ss.am 9618001-kan11 HD
-https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
-#EXTINF:-1 group-title="PAL.HOSSAM",ho.Ss.am 9618001-MAKAN-HD
 https://makan.media.kan.org.il/hls/live/2024680-b/2024680/source1_1.2k/chunklist.m3u8
 #EXTINF:-1 group-title="Saudia",Al quran (Medina)
 http://m.live.net.sa:1935/live/quran/H.O.SS.A.m.0599618001.m3u8
