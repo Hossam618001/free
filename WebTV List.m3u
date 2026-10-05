@@ -71,7 +71,6 @@ http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",ho.ss.am 9618001-MawwalHD
 http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
-https://makan.media.kan.org.il/hls/live/2024680-b/2024680/source1_1.2k/chunklist.m3u8
 #EXTINF:-1 group-title="Saudia",Al quran (Medina)
 http://m.live.net.sa:1935/live/quran/H.O.SS.A.m.0599618001.m3u8
 #EXTINF:-1 group-title="Saudia",Al Sunnah (Medina)
