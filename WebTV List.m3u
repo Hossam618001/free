@@ -75,7 +75,7 @@ http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
 http://m.live.net.sa:1935/live/quran/H.O.SS.A.m.0599618001.m3u8
 #EXTINF:-1 group-title="Saudia",Al Sunnah (Medina)
 http://m.live.net.sa:1935/live/sunnah/H.O.SS.A.M.0599618001.m3u8
-#EXTINF:-1 group-title="PAL.Radio",GAZA-FM
+#EXTINF:-1 tvg-id="" tvg-name="GAZA-FM" tvg-logo="https://i.ibb.co/Ng6V0RFg/images-11-modified.png" group-title="PAL.Radio",GAZA-FM
 http://173.212.226.153:8000/HO.SSA.M-SAT
 #EXTINF:-1 group-title="PAL.Radio",ZMN-FM
 http://rs.hadara.ps:8608/stream/;stream.mp3
