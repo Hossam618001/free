@@ -81,7 +81,7 @@ https://live.radiogaza.com/listen/radio_gaza/radio.mp3
 https://mars.streamerr.co/8342/stream
 #EXTINF:-1 tvg-id="" tvg-name="صوت الرابعه" tvg-logo="https://i.ibb.co/Ng6V0RFg/images-11-modified.png" group-title="PAL.Radio",صوت الرابعه
 https://radio.r4fm.ps/;stream.mp3
-#EXTINF:-1 tvg-id="" tvg-name="صوت الغد تراث" tvg-logo="https://i.ibb.co/Ng6V0RFg/images-11-modified.png" group-title="PAL.Radio",صوت الغد تراث
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ng6V0RFg/images-11-modified.png" group-title="PAL.Radio",صوت الغد تراث
 https://sawtelghad.org:8777/;
 #EXTINF:-1 tvg-id="" tvg-name=" الصحابه" tvg-logo="https://i.ibb.co/Ng6V0RFg/images-11-modified.png" group-title="PAL.Radio",اذاعة الصحابه
 http://s5.voscast.com:10130
