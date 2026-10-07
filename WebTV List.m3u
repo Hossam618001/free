@@ -105,6 +105,34 @@ http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665731&e
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665732&extension=ts&play_token=PNDnZtAlyj
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="QURAN TV",احمد نعينع AHMED NEINAA
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665733&extension=ts&play_token=7ST2OrPThC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV",QURAN ONE
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686148&extension=ts&play_token=ppw7GGSfeo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", QURAN TWO
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686147&extension=ts&play_token=Mzpkmmzo8i
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", MISHARI AL AFASI QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686160&extension=ts&play_token=PGZ0O9KHvZ
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV",AL-SUDAIS QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686159&extension=ts&play_token=8YpGBCvYdI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV",AL MUAQLY QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686158&extension=ts&play_token=crJcPzExgW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", FARES ABAD QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686157&extension=ts&play_token=Mk8mUXLlpX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", AHMED ALAJMI QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686156&extension=ts&play_token=MjdQHlq0rW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV",ABD AL BASET QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686155&extension=ts&play_token=YjCMfa0quf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", SIDIK ALMANCHAWI QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686154&extension=ts&play_token=RZnIkBSFon
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", SAOUD SHURAIM QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686153&extension=ts&play_token=XFAwUU85Qm
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", RAAD AL KURDI QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686152&extension=ts&play_token=DBTNYIhjyB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", SALAH BUKHATIR QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686151&extension=ts&play_token=RwFFXrtErr
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", MOHAMED GIBRIL QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686150&extension=ts&play_token=aNUXttcr7p
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", AL AFASY QURAN
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686149&extension=ts&play_token=DBwmeWY0U3
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER ACTION
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672048&extension=ts&play_token=sGP0U0rT1I
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER ACTION +1
@@ -133,6 +161,34 @@ http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672024&ex
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672035&extension=ts&play_token=NwA87fUDe5
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER THOR +1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672023&extension=ts&play_token=iCPknewMmG
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT",NETFLIX ARABIC 1
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653125&extension=ts&play_token=CVDyUqNrcI
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT",NETFLIX ARABIC 2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653126&extension=ts&play_token=No1WFaw6FU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX ARABIC 3
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653127&extension=ts&play_token=1VXaSss9vU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX ACTION HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653148&extension=ts&play_token=svzjAJRyQf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX ACTION 1
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653129&extension=ts&play_token=fnpItO3ZsP
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX ACTION 2
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653130&extension=ts&play_token=sdDJV1uRjo
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX ACTION WAR
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653131&extension=ts&play_token=lmbEDzH2jU
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX AFLAM HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653155&extension=ts&play_token=0ItEoQUOij
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX ALWAN HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653156&extension=ts&play_token=Wpd7A9FLmb
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX ANIMATION
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653144&extension=ts&play_token=A997XJCIx9
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX ARABIC CLASSIC
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653128&extension=ts&play_token=u2a4XpO01N
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX CIMA HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653159&extension=ts&play_token=4BYUiKU1UA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX CINEMA HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653146&extension=ts&play_token=tIh2zPEh1Q
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX CLASSIC HD
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653153&extension=ts&play_token=J54Ljqv6ps
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| ALWAN SPORT 1 4K
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1859098.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| ALWAN SPORT 2 4K
