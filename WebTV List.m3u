@@ -71,10 +71,6 @@ http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
 #EXTINF:-1 group-title="PAL.HOSSAM",ho.ss.am 9618001-MawwalHD
 http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
-#EXTINF:-1 group-title="Saudia",Al quran (Medina)
-http://m.live.net.sa:1935/live/quran/H.O.SS.A.m.0599618001.m3u8
-#EXTINF:-1 group-title="Saudia",Al Sunnah (Medina)
-http://m.live.net.sa:1935/live/sunnah/H.O.SS.A.M.0599618001.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ng6V0RFg/images-11-modified.png" group-title="PAL.Radio",GAZA-FM
 https://live.radiogaza.com/listen/radio_gaza/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ng6V0RFg/images-11-modified.png" group-title="PAL.Radio",راديو بسمة
@@ -107,6 +103,48 @@ http://streamer.mada.ps:8010/ANGHAM
 http://streamer.mada.ps:8037/classic
 #EXTINF:-1 group-title="PAL.Radio",raya-FM
 http://live.raya.ps:8064/;stream.mp3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="[LIVE]- ┃AR┃ QURAN TV",┃AR┃ QURAN TV | أحمد الحذيفي AHMAD ALHUTHAIFI
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665727&extension=ts&play_token=mgk7hJ5ms1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="[LIVE]- ┃AR┃ QURAN TV",┃AR┃ QURAN TV | أحمد الحواشي AHMAD AL HAWASHI
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665728&extension=ts&play_token=PLSS7Ag4JX
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="[LIVE]- ┃AR┃ QURAN TV",┃AR┃ QURAN TV | أحمد علي العجمي AHMAD BIN ALI AL-AJMI
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665729&extension=ts&play_token=FdaYEaMHCW
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="[LIVE]- ┃AR┃ QURAN TV",┃AR┃ QURAN TV | إدريس أبكر IDREES ABKR
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665730&extension=ts&play_token=UNPcLYbfsf
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="[LIVE]- ┃AR┃ QURAN TV",┃AR┃ QURAN TV | ابو بكر الشطري ABU BAKIR AL SHATRI
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665731&extension=ts&play_token=VJviDaTtTl
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="[LIVE]- ┃AR┃ QURAN TV",┃AR┃ QURAN TV | احمد سعود AHMED SAUED
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665732&extension=ts&play_token=PNDnZtAlyj
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="[LIVE]- ┃AR┃ QURAN TV",┃AR┃ QURAN TV | احمد نعينع AHMED NEINAA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665733&extension=ts&play_token=7ST2OrPThC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER ACTION
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672048&extension=ts&play_token=sGP0U0rT1I
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER ACTION +1
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672027&extension=ts&play_token=6uKJ7rBwsh
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER DRAMA
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672043&extension=ts&play_token=VHNna18PDk
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER DRAMA +1
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672026&extension=ts&play_token=UIQBp0KBqB
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER DISNEY
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672031&extension=ts&play_token=avTCXjus5a
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER DISNEY +1
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672019&extension=ts&play_token=0symqyuRLt
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER SPIDER
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672034&extension=ts&play_token=30owwb07xO
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER SPIDER +1
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672020&extension=ts&play_token=ova3mWOfqR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER MARVEL
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672037&extension=ts&play_token=HaApZcSYjK
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER MARVEL +1
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672025&extension=ts&play_token=utgNTRNzSC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER AVANGERS
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672036&extension=ts&play_token=7bRH3Dvm6B
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER AVANGERS +1
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672024&extension=ts&play_token=liOu7YOfBv
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER THOR
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672035&extension=ts&play_token=NwA87fUDe5
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="[LIVE]- ┃AR┃ POWER | باور",┃AR┃ POWER THOR +1
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672023&extension=ts&play_token=iCPknewMmG
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 1 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| ALWAN SPORT 1 4K
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1859098.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| ALWAN SPORT 2 4K" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/ALWAN-SPORT.png" group-title="AR| ALWAN by ᴳᴬᴹᴱᴿᴰᶻ¹⁵¹⁷",AR| ALWAN SPORT 2 4K
