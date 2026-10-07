@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="PAL.HOSSAM",AL FAJER 1 FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",AL FAJER 1 FHD
 http://eds-stream.com/play/live.php?mac=00:1A:79:56:40:E3&stream=1163412&extension=ts&play_token=TdHD19QaD6
 #EXTINF:-1 group-title="PAL.HOSSAM",Alaqsa
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
