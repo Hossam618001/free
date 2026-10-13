@@ -1315,7 +1315,7 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/14
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1414070.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| NETFLIX ZAMAN" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="NETFLIX", NETFLIX ZAMAN
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1414072.ts
-#EXTINF:-1 tvg-id="" tvg-name="###### NETFLIX FHD ######" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="AR| NETFLIX ###### NETFLIX FHD ######
+#EXTINF:-1 tvg-id="" tvg-name="###### NETFLIX FHD ######" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="NETFLIX", ###### NETFLIX FHD ######
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/642118.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| NETFLIX MOVIES 1 FHD" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="NETFLIX", NETFLIX MOVIES 1 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/642117.ts
@@ -1337,7 +1337,7 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/64
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/642109.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| NETFLIX MOVIES 10 FHD" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="NETFLIX", NETFLIX MOVIES 10 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/642108.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### HULU #####" tvg-logo="" group-title="AR| HULU ##### HULU #####
+#EXTINF:-1 tvg-id="" tvg-name="##### HULU #####" tvg-logo="" group-title="HULU", ##### HULU #####
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275567.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| HULU ADVENTURE" tvg-logo="http://picons.cmshulk.com/picons/1275566.png" group-title="HULU", HULU ADVENTURE
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275566.ts
@@ -1383,7 +1383,7 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/20
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/2024588.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| X MAS 4 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/24-7.png" group-title=" CINE 24 ", X MAS 4 ᴿᴬᵂ
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/2024587.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### VIVO #####" tvg-logo="" group-title="AR| VIVO ##### VIVO #####
+#EXTINF:-1 tvg-id="" tvg-name="##### VIVO #####" tvg-logo="" group-title=" VIVO AR ", ##### VIVO #####
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275599.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| VIVO LIVE HD" tvg-logo="http://picons.cmshulk.com/picons/1387732.png" group-title=" VIVO AR ", VIVO LIVE HD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1387732.ts
@@ -1433,209 +1433,209 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/13
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1369636.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| منال العالم 4" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d9%85%d9%86%d8%a7%d9%84-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85.png" group-title=" WORLD OF COOKING ", منال العالم 4
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1369637.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### BOX OFFICE #####" tvg-logo="" group-title="AR| BOX OFFICE FHD ##### BOX OFFICE #####
+#EXTINF:-1 tvg-id="" tvg-name="##### BOX OFFICE #####" tvg-logo="" group-title="BOX OFFICE FHD ", ##### BOX OFFICE #####
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421647.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 1 FHD" tvg-logo="http://picons.cmshulk.com/picons/421646.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 1 FHD" tvg-logo="http://picons.cmshulk.com/picons/421646.png" group-title="BOX OFFICE FHD ", BOX OFFICE 1 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421646.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 2 FHD" tvg-logo="http://picons.cmshulk.com/picons/421645.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 2 FHD" tvg-logo="http://picons.cmshulk.com/picons/421645.png" group-title="BOX OFFICE FHD ", BOX OFFICE 2 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421645.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 3 FHD" tvg-logo="http://picons.cmshulk.com/picons/421644.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 3 FHD" tvg-logo="http://picons.cmshulk.com/picons/421644.png" group-title="BOX OFFICE FHD ", BOX OFFICE 3 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421644.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 4 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 4 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 4 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421643.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 5 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 5 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 5 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 5 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421642.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 6 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 6 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 6 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 6 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421641.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 7 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 7 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 7 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 7 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421640.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 8 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 8 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 8 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 8 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421639.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 9 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 9 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 9 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 9 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421638.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 10 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 10 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 10 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 10 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421637.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 11 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 11 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 11 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 11 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421636.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 12 FHD" tvg-logo="http://picons.cmshulk.com/picons/421635.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 12 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 12 FHD" tvg-logo="http://picons.cmshulk.com/picons/421635.png" group-title="BOX OFFICE FHD ", BOX OFFICE 12 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421635.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 13 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 13 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 13 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 13 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421634.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 14 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 14 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 14 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 14 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421633.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 15 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 15 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 15 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 15 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421632.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 16 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 16 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 16 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 16 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421631.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 17 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 17 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 17 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 17 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421630.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 18 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 18 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 18 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 18 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421629.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 19 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 19 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 19 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 19 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421628.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 20 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 20 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 20 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 20 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421627.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 21 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 21 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 21 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 21 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421626.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 22 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 22 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 22 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 22 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421625.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 23 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 23 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 23 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 23 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421624.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 24 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 24 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 24 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 24 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421623.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 25 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 25 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 25 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 25 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421622.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 26 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 26 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 26 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 26 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421621.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 27 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 27 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 27 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 27 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421620.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 28 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 28 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 28 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 28 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421619.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 29 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 29 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 29 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 29 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421618.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 30 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 30 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 30 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 30 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421617.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 31 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 31 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 31 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 31 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421616.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 32 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 32 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 32 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 32 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421615.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 33 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 33 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 33 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 33 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421614.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 34 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 34 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 34 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 34 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421613.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 35 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 35 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 35 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 35 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421612.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 36 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 36 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 36 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 36 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421611.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 37 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 37 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 37 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 37 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421610.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 38 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 38 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 38 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 38 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421609.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 39 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 39 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 39 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 39 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421608.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 40 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 40 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 40 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 40 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421607.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 41 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 41 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 41 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 41 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421606.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 42 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 42 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 42 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 42 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421605.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 43 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 43 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 43 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 43 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421604.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 44 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 44 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 44 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 44 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421603.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 45 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 45 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 45 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 45 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421602.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 46 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 46 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 46 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 46 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421601.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 47 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 47 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 47 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 47 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421600.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 48 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 48 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 48 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 48 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421599.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 49 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 49 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 49 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 49 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421598.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 50 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 50 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 50 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 50 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421597.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 51 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 51 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 51 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 51 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421596.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 52 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 52 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 52 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 52 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421595.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 53 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 53 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 53 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 53 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421594.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 54 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 54 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 54 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 54 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421593.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 55 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 55 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 55 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 55 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421592.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 56 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 56 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 56 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 56 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421591.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 57 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 57 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 57 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 57 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421590.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 58 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 58 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 58 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 58 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421589.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 59 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 59 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 59 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 59 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421588.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 60 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 60 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 60 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 60 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421587.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 61 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 61 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 61 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 61 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421586.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 62 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 62 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 62 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 62 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421585.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 63 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 63 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 63 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 63 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421584.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 64 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 64 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 64 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 64 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421583.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 65 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 65 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 65 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 65 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421582.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 66 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 66 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 66 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 66 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421581.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 67 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 67 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 67 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 67 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421580.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 68 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 68 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 68 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 68 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421579.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 69 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 69 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 69 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 69 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421578.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 70 FHD" tvg-logo="http://picons.cmshulk.com/picons/421577.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 70 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 70 FHD" tvg-logo="http://picons.cmshulk.com/picons/421577.png" group-title="BOX OFFICE FHD ", BOX OFFICE 70 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421577.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 71 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 71 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 71 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 71 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421576.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 72 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 72 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 72 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 72 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421575.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 73 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 73 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 73 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 73 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421574.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 74 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 74 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 74 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 74 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421573.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 75 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 75 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 75 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 75 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421572.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 76 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 76 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 76 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 76 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421571.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 77 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 77 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 77 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 77 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421570.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 78 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 78 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 78 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 78 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421569.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 79 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 79 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 79 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 79 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421568.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 80 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 80 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 80 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 80 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421567.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 81 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 81 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 81 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 81 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421566.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 82 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 82 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 82 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 82 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421565.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 83 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 83 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 83 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 83 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421564.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 84 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 84 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 84 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 84 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421563.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 85 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 85 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 85 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 85 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421562.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 86 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 86 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 86 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 86 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421561.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 87 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 87 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 87 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 87 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421560.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 88 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 88 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 88 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 88 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421559.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 89 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 89 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 89 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 89 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421558.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 90 FHD" tvg-logo="http://picons.cmshulk.com/picons/421557.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 90 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 90 FHD" tvg-logo="http://picons.cmshulk.com/picons/421557.png" group-title="BOX OFFICE FHD ", BOX OFFICE 90 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421557.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 91 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 91 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 91 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 91 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421556.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 92 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 92 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 92 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 92 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421555.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 93 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 93 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 93 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 93 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421554.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 94 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 94 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 94 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 94 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421553.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 95 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 95 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 95 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 95 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421552.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 96 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 96 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 96 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 96 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421551.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 97 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 97 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 97 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 97 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421550.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 98 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 98 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 98 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 98 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421549.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 99 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 99 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 99 FHD" tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE FHD ", BOX OFFICE 99 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421548.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 100 FHD" tvg-logo="http://picons.cmshulk.com/picons/421547.png" group-title="AR| BOX OFFICE FHD ", BOX OFFICE 100 FHD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 100 FHD" tvg-logo="http://picons.cmshulk.com/picons/421547.png" group-title="BOX OFFICE FHD ", BOX OFFICE 100 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421547.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### MBC +6H NA #####" tvg-logo="" group-title="AR| MBC AM +6H ##### MBC +6H NA #####
+#EXTINF:-1 tvg-id="" tvg-name="##### MBC +6H NA #####" tvg-logo="" group-title="AR| MBC AM ", ##### MBC +6H NA #####
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815488.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| MBC 1 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815487.png" group-title="AR| MBC AM ", MBC 1 HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815487.ts
