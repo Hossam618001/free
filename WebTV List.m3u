@@ -190,11 +190,11 @@ http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653146&e
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX EGYPT", NETFLIX CLASSIC HD
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=1653153&extension=ts&play_token=J54Ljqv6ps
 #EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية", غسيل ممنوع من النشر (2025)
-http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749419.mkv&play_token=9Y3VKsrIHb
+http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749419.mkv&play_token=9Y3VKsrIHb&type=movie
 #EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية", المدينة الترفيهية (2025)
-http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749416.mkv&play_token=hfjyckXhoV
+http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749416.mkv&play_token=hfjyckXhoV&type=movie
 #EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   المزدوجين
-http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749415.mkv&play_token=cAt6whXiFM
+http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749415.mkv&play_token=cAt6whXiFM&type=movie
 #EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",Ara - 2008
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1738368.mkv&play_token=AzxqUMWgqo
 #EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    انستونا (2026)
