@@ -1371,7 +1371,7 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/20
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/2024561.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| DISCOVERY+ 5 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/DISCOVERYPLUS.png" group-title="DISCOVERY+ ", DISCOVERY+ 5 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/2024560.ts
-#EXTINF:-1 tvg-id="" tvg-name="### CINE 24-7 ᴹᵁᴸᵀᴵ⁻ᴬᵁᴰᴵᴼ ###" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/24-7.png" group-title="AR| CINE 24-7 ᴹᵁᴸᵀᴵ⁻ᴬᵁᴰᴵᴼ ### CINE 24-7 ᴹᵁᴸᵀᴵ⁻ᴬᵁᴰᴵᴼ ###
+#EXTINF:-1 tvg-id="" tvg-name="### CINE 24-7 ᴹᵁᴸᵀᴵ⁻ᴬᵁᴰᴵᴼ ###" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/24-7.png" group-title=" CINE 24 ", ### CINE 24-7 ᴹᵁᴸᵀᴵ⁻ᴬᵁᴰᴵᴼ ###
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/2024592.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| MARVEL ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/24-7.png" group-title=" CINE 24 ", MARVEL ᴿᴬᵂ
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/2024591.ts
@@ -1669,13 +1669,13 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/81
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1948902.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| MBC FM FHD +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/MBC-FM.png" group-title="AR| MBC AM ", MBC FM FHD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815472.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 1 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-1.png" group-title="AR| ART AM +6H AR| ART AFLAM 1 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 1 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-1.png" group-title="ART ", ART AFLAM 1 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815471.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 2 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-2.png" group-title="AR| ART AM +6H AR| ART AFLAM 2 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 2 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-2.png" group-title="ART ", ART AFLAM 2 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815470.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 1 +6H" tvg-logo="http://picons.cmshulk.com/picons/815469.png" group-title="AR| ART AM +6H AR| ART HEKAYAT 1 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 1 +6H" tvg-logo="http://picons.cmshulk.com/picons/815469.png" group-title="ART ", ART HEKAYAT 1 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815469.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 2 +6H" tvg-logo="http://picons.cmshulk.com/picons/815468.png" group-title="AR| ART AM +6H AR| ART HEKAYAT 2 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 2 +6H" tvg-logo="http://picons.cmshulk.com/picons/815468.png" group-title="ART", ART HEKAYAT 2 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815468.ts
 #EXTINF:-1 tvg-id="" tvg-name="ISR| BIG BROTHER HD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/BIGBROTHER.png" group-title="IS| ISRAEL VIP", BIG BROTHER HD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1865541.ts
