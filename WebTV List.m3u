@@ -657,32 +657,6 @@ http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387939&exten
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387938&extension=ts&play_token=URR5gAj4dD
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/WATCHBOX.png" group-title="WATCHBOX 4K", WATCHBOX SIGNAL H265
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387937&extension=ts&play_token=zhRE6mWIvO
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER CLIPS H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387936&extension=ts&play_token=mC82k2vR04
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER FITNESS W H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387935&extension=ts&play_token=U8aN0WQuAO
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER FITNESS M H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387934&extension=ts&play_token=l7fpk7XlN4
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER SERIES H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387933&extension=ts&play_token=unwmC1U8Rm
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER DISNEY H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387932&extension=ts&play_token=dccol27xZ3
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER SPIDER H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387931&extension=ts&play_token=Hl23iNA0Eb
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER FILMBOX H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387930&extension=ts&play_token=fW7vMlZz6j
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER FOX MOVIES H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387929&extension=ts&play_token=NZAloeCHu2
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER THOR H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387928&extension=ts&play_token=GiyinGjYK9
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER AVANGERS H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387927&extension=ts&play_token=wowtZBI19d
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER MARVEL H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387926&extension=ts&play_token=yuWynqnN7B
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER DRAMA H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387925&extension=ts&play_token=RgxbWb34eW
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/POWER.png" group-title="WATCHBOX 4K", POWER ACTION  H265
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1387924&extension=ts&play_token=ujzji9xcS5
 #EXTINF:-1 tvg-logo="" group-title="AMAZON PRIME",##### AMAZON PRIME #####
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:17:03:95&stream=1275544&extension=ts&play_token=tMQCOLlu0H
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/PRIME-VIDEO.png" group-title="AMAZON PRIME", AMAZON ACTION
