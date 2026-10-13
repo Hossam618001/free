@@ -1337,30 +1337,58 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/64
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/642109.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| NETFLIX MOVIES 10 FHD" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="NETFLIX", NETFLIX MOVIES 10 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/642108.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### HULU #####" tvg-logo="" group-title="HULU", ##### HULU #####
+#EXTINF:-1 tvg-id="" tvg-name="##### HULU #####" tvg-logo="" group-title="HULU+VIVO", ##### HULU #####
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275567.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU ADVENTURE" tvg-logo="http://picons.cmshulk.com/picons/1275566.png" group-title="HULU", HULU ADVENTURE
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU ADVENTURE" tvg-logo="http://picons.cmshulk.com/picons/1275566.png" group-title="HULU+VIVO", HULU ADVENTURE
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275566.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU COMEDY" tvg-logo="http://picons.cmshulk.com/picons/1275565.png" group-title="HULU", HULU COMEDY
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU COMEDY" tvg-logo="http://picons.cmshulk.com/picons/1275565.png" group-title="HULU+VIVO", HULU COMEDY
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275565.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU CRIME" tvg-logo="http://picons.cmshulk.com/picons/1275564.png" group-title="HULU", HULU CRIME
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU CRIME" tvg-logo="http://picons.cmshulk.com/picons/1275564.png" group-title="HULU+VIVO", HULU CRIME
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275564.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU MYSTERY" tvg-logo="http://picons.cmshulk.com/picons/1275563.png" group-title="HULU", HULU MYSTERY
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU MYSTERY" tvg-logo="http://picons.cmshulk.com/picons/1275563.png" group-title="HULU+VIVO", HULU MYSTERY
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275563.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU SCI-FI" tvg-logo="http://picons.cmshulk.com/picons/1275562.png" group-title="HULU", HULU SCI-FI
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU SCI-FI" tvg-logo="http://picons.cmshulk.com/picons/1275562.png" group-title="HULU+VIVO", HULU SCI-FI
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275562.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU FANTASY" tvg-logo="http://picons.cmshulk.com/picons/1275561.png" group-title="HULU", HULU FANTASY
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU FANTASY" tvg-logo="http://picons.cmshulk.com/picons/1275561.png" group-title="HULU+VIVO", HULU FANTASY
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275561.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU FRENCH" tvg-logo="http://picons.cmshulk.com/picons/1275560.png" group-title="HULU", HULU FRENCH
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU FRENCH" tvg-logo="http://picons.cmshulk.com/picons/1275560.png" group-title="HULU+VIVO", HULU FRENCH
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275560.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU ITALIAN" tvg-logo="http://picons.cmshulk.com/picons/1275559.png" group-title="HULU", HULU ITALIAN
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU ITALIAN" tvg-logo="http://picons.cmshulk.com/picons/1275559.png" group-title="HULU+VIVO", HULU ITALIAN
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275559.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU GERMANY" tvg-logo="http://picons.cmshulk.com/picons/1275558.png" group-title="HULU", HULU GERMANY
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU GERMANY" tvg-logo="http://picons.cmshulk.com/picons/1275558.png" group-title="HULU+VIVO", HULU GERMANY
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275558.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU SPANISH" tvg-logo="http://picons.cmshulk.com/picons/1275557.png" group-title="HULU", HULU SPANISH
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU SPANISH" tvg-logo="http://picons.cmshulk.com/picons/1275557.png" group-title="HULU+VIVO", HULU SPANISH
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275557.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| HULU ANIMATION" tvg-logo="http://picons.cmshulk.com/picons/1275556.png" group-title="HULU", HULU ANIMATION
+#EXTINF:-1 tvg-id="" tvg-name="AR| HULU ANIMATION" tvg-logo="http://picons.cmshulk.com/picons/1275556.png" group-title="HULU+VIVO", HULU ANIMATION
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275556.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### VIVO #####" tvg-logo="" group-title="HULU+VIVO", ##### VIVO #####
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275599.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO LIVE HD" tvg-logo="http://picons.cmshulk.com/picons/1387732.png" group-title="HULU+VIVO", VIVO LIVE HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1387732.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO CINEMA HD" tvg-logo="http://picons.cmshulk.com/picons/1275598.png" group-title="HULU+VIVO", VIVO CINEMA HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275598.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO CLUB HD" tvg-logo="http://picons.cmshulk.com/picons/1275597.png" group-title="HULU+VIVO", VIVO CLUB HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275597.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO OSCAR HD" tvg-logo="http://picons.cmshulk.com/picons/1275596.png" group-title="HULU+VIVO", VIVO OSCAR HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275596.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO SHOWTIME HD" tvg-logo="http://103.176.90.118/picons/logos/VIVO-LOGO.png" group-title="HULU+VIVO", VIVO SHOWTIME HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275595.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO PLUS + HD" tvg-logo="http://picons.cmshulk.com/picons/1275594.png" group-title="HULU+VIVO", VIVO PLUS + HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275594.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO MOVIES HD" tvg-logo="http://picons.cmshulk.com/picons/1275593.png" group-title="HULU+VIVO", VIVO MOVIES HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275593.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO CENTRAL HD" tvg-logo="http://picons.cmshulk.com/picons/1275592.png" group-title="HULU+VIVO", VIVO CENTRAL HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275592.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO WAR TIME HD" tvg-logo="http://picons.cmshulk.com/picons/1275591.png" group-title="HULU+VIVO", VIVO WAR TIME HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275591.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO WAR TIME GALAXY HD" tvg-logo="http://103.176.90.118/picons/logos/VIVO-LOGO.png" group-title="HULU+VIVO", VIVO WAR TIME GALAXY HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275590.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO ONLINE HD" tvg-logo="http://picons.cmshulk.com/picons/1275589.png" group-title="HULU+VIVO", VIVO ONLINE HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275589.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO CRYSTAL HD" tvg-logo="http://picons.cmshulk.com/picons/1275588.png" group-title="HULU+VIVO", VIVO CRYSTAL HD
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275588.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO WIPEOUT XTRA 4K" tvg-logo="http://103.176.90.118/picons/logos/VIVO-LOGO.png" group-title="HULU+VIVO", VIVO WIPEOUT XTRA 4K
+http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275587.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| DISCOVERY+ 1 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/DISCOVERYPLUS.png" group-title="DISCOVERY+ ", DISCOVERY+ 1 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/2024564.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| DISCOVERY+ 2 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/DISCOVERYPLUS.png" group-title="DISCOVERY+ ", DISCOVERY+ 2 ᴬʳᵃᵇᶦᶜ ᴿᴬᵂ
@@ -1383,34 +1411,6 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/20
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/2024588.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| X MAS 4 ᴿᴬᵂ" tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/24-7.png" group-title=" CINE 24 ", X MAS 4 ᴿᴬᵂ
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/2024587.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### VIVO #####" tvg-logo="" group-title=" VIVO AR ", ##### VIVO #####
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275599.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO LIVE HD" tvg-logo="http://picons.cmshulk.com/picons/1387732.png" group-title=" VIVO AR ", VIVO LIVE HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1387732.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO CINEMA HD" tvg-logo="http://picons.cmshulk.com/picons/1275598.png" group-title=" VIVO AR ", VIVO CINEMA HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275598.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO CLUB HD" tvg-logo="http://picons.cmshulk.com/picons/1275597.png" group-title=" VIVO AR ", VIVO CLUB HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275597.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO OSCAR HD" tvg-logo="http://picons.cmshulk.com/picons/1275596.png" group-title=" VIVO AR ", VIVO OSCAR HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275596.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO SHOWTIME HD" tvg-logo="http://103.176.90.118/picons/logos/VIVO-LOGO.png" group-title=" VIVO AR ", VIVO SHOWTIME HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275595.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO PLUS + HD" tvg-logo="http://picons.cmshulk.com/picons/1275594.png" group-title=" VIVO AR ", VIVO PLUS + HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275594.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO MOVIES HD" tvg-logo="http://picons.cmshulk.com/picons/1275593.png" group-title=" VIVO AR ", VIVO MOVIES HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275593.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO CENTRAL HD" tvg-logo="http://picons.cmshulk.com/picons/1275592.png" group-title=" VIVO AR ", VIVO CENTRAL HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275592.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO WAR TIME HD" tvg-logo="http://picons.cmshulk.com/picons/1275591.png" group-title=" VIVO AR ", VIVO WAR TIME HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275591.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO WAR TIME GALAXY HD" tvg-logo="http://103.176.90.118/picons/logos/VIVO-LOGO.png" group-title=" VIVO AR ", VIVO WAR TIME GALAXY HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275590.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO ONLINE HD" tvg-logo="http://picons.cmshulk.com/picons/1275589.png" group-title=" VIVO AR ", VIVO ONLINE HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275589.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO CRYSTAL HD" tvg-logo="http://picons.cmshulk.com/picons/1275588.png" group-title=" VIVO AR ", VIVO CRYSTAL HD
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275588.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| VIVO WIPEOUT XTRA 4K" tvg-logo="http://103.176.90.118/picons/logos/VIVO-LOGO.png" group-title=" VIVO AR ", VIVO WIPEOUT XTRA 4K
-http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1275587.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| البيت الدمشقي" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d8%a7%d9%84%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d8%af%d9%85%d8%b4%d9%82%d9%8a.png" group-title=" WORLD OF COOKING ", البيت الدمشقي
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1369627.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| الشيف عمر" tvg-logo="http://103.176.90.118/picons/logos/AFRICA/%d8%a7%d9%84%d8%b4%d9%8a%d9%81-%d8%b9%d9%85%d8%b1.png" group-title=" WORLD OF COOKING ", الشيف عمر
@@ -1671,11 +1671,11 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/19
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815472.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 1 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-1.png" group-title="ART ", ART AFLAM 1 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815471.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 2 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-2.png" group-title="ART ", ART AFLAM 2 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 2 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-2.png" group-title="AR| MBC AM ", ART AFLAM 2 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815470.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 1 +6H" tvg-logo="http://picons.cmshulk.com/picons/815469.png" group-title="ART ", ART HEKAYAT 1 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 1 +6H" tvg-logo="http://picons.cmshulk.com/picons/815469.png" group-title="AR| MBC AM ", ART HEKAYAT 1 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815469.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 2 +6H" tvg-logo="http://picons.cmshulk.com/picons/815468.png" group-title="ART", ART HEKAYAT 2 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 2 +6H" tvg-logo="http://picons.cmshulk.com/picons/815468.png" group-title="AR| MBC AM ", ART HEKAYAT 2 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815468.ts
 #EXTINF:-1 tvg-id="" tvg-name="ISR| BIG BROTHER HD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/BIGBROTHER.png" group-title="IS| ISRAEL VIP", BIG BROTHER HD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1865541.ts
