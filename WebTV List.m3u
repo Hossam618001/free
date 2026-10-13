@@ -1279,7 +1279,7 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/18
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1896917.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| Wild Babies 4K" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="NETFLIX", Wild Babies 4K
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1896916.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### NETFLIX 4K #####" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="AR| NETFLIX ##### NETFLIX 4K #####
+#EXTINF:-1 tvg-id="" tvg-name="##### NETFLIX 4K #####" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="NETFLIX", ##### NETFLIX 4K #####
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/642120.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| NETFLIX MOVIES 1 4K+" tvg-logo="http://picons.cmshulk.com/picons/netflix.png" group-title="NETFLIX", NETFLIX MOVIES 1 4K+
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/642119.ts
@@ -1635,47 +1635,47 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/42
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421548.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| BOX OFFICE 100 FHD" tvg-logo="http://picons.cmshulk.com/picons/421547.png" group-title="BOX OFFICE FHD ", BOX OFFICE 100 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/421547.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### MBC +6H NA #####" tvg-logo="" group-title="AR| MBC AM ", ##### MBC +6H NA #####
+#EXTINF:-1 tvg-id="" tvg-name="##### MBC +6H NA #####" tvg-logo="" group-title="ART | MBC ", ##### MBC +6H NA #####
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815488.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC 1 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815487.png" group-title="AR| MBC AM ", MBC 1 HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC 1 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815487.png" group-title="ART | MBC ", MBC 1 HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815487.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC 2 HD +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/mbc2.png" group-title="AR| MBC AM ", MBC 2 HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC 2 HD +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/mbc2.png" group-title="ART | MBC ", MBC 2 HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815486.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC 3 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815485.png" group-title="AR| MBC AM ", MBC 3 HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC 3 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815485.png" group-title="ART | MBC ", MBC 3 HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815485.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC 4 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815484.png" group-title="AR| MBC AM ", MBC 4 HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC 4 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815484.png" group-title="ART | MBC ", MBC 4 HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815484.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC 5 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815483.png" group-title="AR| MBC AM ", MBC 5 HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC 5 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815483.png" group-title="ART | MBC ", MBC 5 HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815483.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC ACTION HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815482.png" group-title="AR| MBC AM ", MBC ACTION HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC ACTION HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815482.png" group-title="ART | MBC ", MBC ACTION HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815482.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC BOLLYWOOD HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815481.png" group-title="AR| MBC AM ", MBC BOLLYWOOD HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC BOLLYWOOD HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815481.png" group-title="ART | MBC ", MBC BOLLYWOOD HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815481.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC DRAMA HD +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/mbcdrama.png" group-title="AR| MBC AM ", MBC DRAMA HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC DRAMA HD +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/mbcdrama.png" group-title="ART | MBC ", MBC DRAMA HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815480.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC IRAQ HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815479.png" group-title="AR| MBC AM ", MBC IRAQ HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC IRAQ HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815479.png" group-title="ART | MBC ", MBC IRAQ HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815479.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC MASR HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815478.png" group-title="AR| MBC AM ", MBC MASR HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC MASR HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815478.png" group-title="ART | MBC ", MBC MASR HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815478.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC MASR 2 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815477.png" group-title="AR| MBC AM ", MBC MASR 2 HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC MASR 2 HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815477.png" group-title="ART | MBC ", MBC MASR 2 HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815477.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC MAX HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815476.png" group-title="AR| MBC AM ", MBC MAX HD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC MAX HD +6H" tvg-logo="http://picons.cmshulk.com/picons/815476.png" group-title="ART | MBC ", MBC MAX HD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815476.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC DRAMA PLUS FHD +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/mbcdramaplus.png" group-title="AR| MBC AM ", MBC DRAMA PLUS FHD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC DRAMA PLUS FHD +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/mbcdramaplus.png" group-title="ART | MBC ", MBC DRAMA PLUS FHD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815475.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC PERSIA FHD +6H" tvg-logo="http://picons.cmshulk.com/picons/815473.png" group-title="AR| MBC AM ", MBC PERSIA FHD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC PERSIA FHD +6H" tvg-logo="http://picons.cmshulk.com/picons/815473.png" group-title="ART | MBC ", MBC PERSIA FHD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815473.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC PANORAMA FM 4K +6H" tvg-logo="http://103.176.90.154/picons/logos/arabic/1948902.png" group-title="AR| MBC AM ", MBC PANORAMA FM 4K +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC PANORAMA FM 4K +6H" tvg-logo="http://103.176.90.154/picons/logos/arabic/1948902.png" group-title="ART | MBC ", MBC PANORAMA FM 4K +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1948902.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| MBC FM FHD +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/MBC-FM.png" group-title="AR| MBC AM ", MBC FM FHD +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| MBC FM FHD +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/MBC-FM.png" group-title="ART | MBC ", MBC FM FHD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815472.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 1 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-1.png" group-title="ART ", ART AFLAM 1 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815471.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 2 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-2.png" group-title="AR| MBC AM ", ART AFLAM 2 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 2 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-2.png" group-title="ART | MBC ", ART AFLAM 2 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815470.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 1 +6H" tvg-logo="http://picons.cmshulk.com/picons/815469.png" group-title="AR| MBC AM ", ART HEKAYAT 1 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 1 +6H" tvg-logo="http://picons.cmshulk.com/picons/815469.png" group-title="ART | MBC ", ART HEKAYAT 1 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815469.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 2 +6H" tvg-logo="http://picons.cmshulk.com/picons/815468.png" group-title="AR| MBC AM ", ART HEKAYAT 2 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART HEKAYAT 2 +6H" tvg-logo="http://picons.cmshulk.com/picons/815468.png" group-title="ART | MBC ", ART HEKAYAT 2 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815468.ts
 #EXTINF:-1 tvg-id="" tvg-name="ISR| BIG BROTHER HD" tvg-logo="http://103.176.90.154/picons/logos/EUROPE/BIGBROTHER.png" group-title="IS| ISRAEL VIP", BIG BROTHER HD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1865541.ts
