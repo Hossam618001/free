@@ -1669,7 +1669,7 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/81
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1948902.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| MBC FM FHD +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/MBC-FM.png" group-title="ART | MBC ", MBC FM FHD +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815472.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 1 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-1.png" group-title="ART ", ART AFLAM 1 +6H
+#EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 1 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-1.png" group-title="ART | MBC ", ART AFLAM 1 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815471.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR| ART AFLAM 2 +6H" tvg-logo="http://103.176.90.118/picons/logos/logos/ART-AFLAM-2.png" group-title="ART | MBC ", ART AFLAM 2 +6H
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/815470.ts
@@ -1839,7 +1839,7 @@ http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/79
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/79232.ts
 #EXTINF:-1 tvg-id="" tvg-name="ISR| ZOOM TV" tvg-logo="http://picons.cmshulk.com/picons/59311.png" group-title="IS| ISRAEL VIP", ZOOM TV
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/59311.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### ISRAEL HD #####" tvg-logo="" group-title="IS| ISRAEL HD ##### ISRAEL HD #####
+#EXTINF:-1 tvg-id="" tvg-name="##### ISRAEL HD #####" tvg-logo="" group-title="IS| ISRAEL HD", ##### ISRAEL HD #####
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1035484.ts
 #EXTINF:-1 tvg-id="" tvg-name="ISR| YES CHANNEL 9 FHD" tvg-logo="http://picons.cmshulk.com/picons/1035249.png" group-title="IS| ISRAEL HD", YES CHANNEL 9 FHD
 http://dtv-1072493095011.europe-west1.run.app/live/00:1A:79:c1:08:31/xczschkt/1035249.ts
