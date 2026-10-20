@@ -63,6 +63,8 @@ http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8
 http://mn-nl.mncdn.com/palabroad/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",blAck-sat-baladna-HD
 http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://amen24.ps/sites/default/files/amen-logo2_0.png" group-title="PAL.HOSSAM",blAck-sat-امن24-amen
+https://vstream3.hadara.ps:8443/amen24/amen24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",black-sAt-albalad-AR-HD
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",ho.ss.am 9618001-rehan-hd
