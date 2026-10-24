@@ -1,24 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",AL FAJER 1 FHD
 http://line-tt.space/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1163412&extension=ts&play_token=e8jytnbioR
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rKppQj3p/New-Logos.webp" group-title="PAL.HOSSAM",Alaqsa
-https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",Alfajer2.movies-HD
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbfrch4s/sama.png" group-title="PAL.HOSSAM",sama ps
 https://mtechmeet.online:5443/LiveApp/streams/live_qa7t90.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbfrch4s/sama.png" group-title="PAL.HOSSAM",sama fantazia
-https://samatv.net/api/ts_proxy.php?url=http%3A%2F%2Fsamamaxtv.com%3A80%2Flive%2Fiptv52300%2F767771541651%2F7727.ts
+https://samatv.net/api/ts_proxy.php?url=http%3A%2F%2Fsamamaxtv.com%3A80%2Flive%2Fiptv52294%2F167287012717%2F4207.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbfrch4s/sama.png" group-title="PAL.HOSSAM",sama aflam 
 https://samatv.net/api/ts_proxy.php?url=http%3A%2F%2Fsamamaxtv.com%3A80%2Flive%2Fiptv52294%2F167287012717%2F7735.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PzcPFx8w/sestm.png" group-title="PAL.HOSSAM",system tv
 https://flu.systemnet.tv/systemnet/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s9sVcD91/zien.png" group-title="PAL.HOSSAM",zain tv
-https://htvmada.mada.ps:4443/zaintv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N68ycyH8/bhaa.png" group-title="PAL.HOSSAM",baha kids
-http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N68ycyH8/bhaa.png" group-title="PAL.HOSSAM",baha2 kids
-http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5Xbv7CZp/adwaa.png" group-title="PAL.HOSSAM",adwaa nabls
-https://flu.systemnet.tv/adwaa/index.m3u8
+#EXTINF:-1 tvg-logo="https://amen24.ps/sites/default/files/amen-logo2_0.png" group-title="PAL.HOSSAM",امن24-amen
+http://vstream3.hadara.ps:8081/amen24/amen24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kmdWfMg/hek.png" group-title="PAL.HOSSAM",hekaya tv
 https://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4FgRGjr/horea.jpg" group-title="PAL.HOSSAM",horyaa-sport1
@@ -47,10 +41,18 @@ http://188.225.225.227:1935/mylive/alsalam/myStream/index.m3u8
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5xPN8R/AJIAL.png" group-title="PAL.HOSSAM",hossam9618001-ajyal-sd
 http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",Alfajer2.movies-HD
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rKppQj3p/New-Logos.webp" group-title="PAL.HOSSAM",Alaqsa
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",hossam.9618001-halaTV
 http://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s9sVcD91/zien.png" group-title="PAL.HOSSAM",zain tv
+https://htvmada.mada.ps:4443/zaintv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N68ycyH8/bhaa.png" group-title="PAL.HOSSAM",baha kids
+http://platform.topuphost.com:8577/live/baha1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N68ycyH8/bhaa.png" group-title="PAL.HOSSAM",baha2 kids
+http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Xbv7CZp/adwaa.png" group-title="PAL.HOSSAM",adwaa nabls
+https://flu.systemnet.tv/adwaa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09ykJwh/k-alna.png" group-title="PAL.HOSSAM",kol.alnas-Black.saT*9618001
 http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",kol.alnas-World
@@ -61,10 +63,18 @@ http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",bLaCK-9618001-RAJEEN
 http://mn-nl.mncdn.com/palabroad/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",canaan tv-كنعان
+https://htvmada.mada.ps:4443/canaantv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",AlMadinatv-المدينه
+http://streaming.zaytonatube.com:8080/AlMadinatv/almadina21/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",البعد الرابع d4 
+http://pbc.furrera.ps/4dmedia/4dpal1/mpegts//index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",basma-بسمه
+https://stream.basma.ps/basma/live/chunklist_w615084027.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",moodfm-مود اف ام
+https://htvmada.mada.ps:4443/moodfm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",blAck-sat-baladna-HD
 http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://amen24.ps/sites/default/files/amen-logo2_0.png" group-title="PAL.HOSSAM",blAck-sat-امن24-amen
-http://vstream3.hadara.ps:8081/amen24/amen24/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",black-sAt-albalad-AR-HD
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",ho.ss.am 9618001-rehan-hd
@@ -74,7 +84,7 @@ http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ng6V0RFg/images-11-modified.png" group-title="PAL.Radio",غزة-FM
 https://live.radiogaza.com/listen/radio_gaza/radio.mp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xjNt9CQ/bsma.png" group-title="PAL.Radio",راديو بسمة
-https://mars.streamerr.co/8342/stream
+https://stream.tagpro.ae/listen/stream/gaza
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvs8kL6/rabaa1.png" group-title="PAL.Radio",صوت الرابعه
 https://radio.r4fm.ps/;stream.mp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RBXWfbH/trash.png" group-title="PAL.Radio",صوت الغد تراثي
