@@ -99,9 +99,19 @@ https://sawtelghad.org:8222/;
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/radio_makan/live.livx/playlist.m3u8?renditions
 #EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/8cc92354-550d-442c-8a32-209ee772a00f/images/logo" group-title="PAL.Radio",راديو فلسطيني
 https://palradio.radioca.st/;
-#EXTINF:-1 group-title="PAL.Radio",orient-FM
+#EXTINF:-1 tvg-logo="https://amen24.ps/sites/default/files/amen-logo2_0.png" group-title="PAL.Radio",امن24-amen24
+https://rstream.hadara.ps/proxy/amen24/stream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtzQMVdV/fjr1.png" group-title="PAL.Radio",فجرfm-fjr
+https://rstream.hadara.ps/proxy/fajerfm/stream
+#EXTINF:-1 tvg-logo="https://hr.ps/media/logo-04.png" group-title="PAL.Radio",الحرية-horya
+https://hr.ps/stream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N2QbZ0TJ/images-10.jpg" group-title="PAL.Radio",عروبه-orooba
+https://icecast.mada.ps:8405/OROOBA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7MhtrQ/raya1.png" group-title="PAL.Radio",راية-raya
+https://rstream.hadara.ps/proxy/raya/stream
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PfSHBWG/orint1.png" group-title="PAL.Radio",orient-اورينت
 http://streamer.mada.ps:8034/orient
-#EXTINF:-1 group-title="PAL.Radio",ANGHAM-FM
+#EXTINF:-1 tvg-logo="https://arn.ps/cached_uploads/fit/560/436/n/2021/05/05/anghamlogo-1620248171.png" group-title="PAL.Radio",ANGHAM-انغام
 http://streamer.mada.ps:8010/ANGHAM
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="QURAN TV",أحمد الحذيفي AHMAD ALHUTHAIFI
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665727&extension=ts&play_token=mgk7hJ5ms1
