@@ -113,6 +113,10 @@ https://rstream.hadara.ps/proxy/raya/stream
 http://streamer.mada.ps:8034/orient
 #EXTINF:-1 tvg-logo="https://arn.ps/cached_uploads/fit/560/436/n/2021/05/05/anghamlogo-1620248171.png" group-title="PAL.Radio",ANGHAM-انغام
 http://streamer.mada.ps:8010/ANGHAM
+#EXTINF:-1 tvg-logo="https://hayat.ps/wp-content/uploads/2020/12/HAYAT_Logo_2020-01.svg" group-title="PAL.Radio",hayat-حياه
+https://rstream.hadara.ps/proxy/hayat/stream.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xtzYth4T/unnamed-1-modified.png" group-title="PAL.Radio",nas-ناس الناصره
+https://live1.nasapp.net/nas/live_audio.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="QURAN TV",أحمد الحذيفي AHMAD ALHUTHAIFI
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665727&extension=ts&play_token=mgk7hJ5ms1
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="QURAN TV",أحمد الحواشي AHMAD AL HAWASHI
