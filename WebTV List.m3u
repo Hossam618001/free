@@ -3,8 +3,8 @@
 http://line-tt.space/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1163412&extension=ts&play_token=e8jytnbioR
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",Alfajer2.movies-HD
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gbfrch4s/sama.png" group-title="PAL.HOSSAM",sama ps
-https://mtechmeet.online:5443/LiveApp/streams/live_qa7t90.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hPf3bff/anbat.png" group-title="PAL.HOSSAM", الانباط
+http://82.212.74.98:8000/live/7070.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbfrch4s/sama.png" group-title="PAL.HOSSAM",sama fantazia
 https://samatv.net/api/ts_proxy.php?url=http%3A%2F%2Fsamamaxtv.com%3A80%2Flive%2Fiptv52294%2F167287012717%2F4207.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gbfrch4s/sama.png" group-title="PAL.HOSSAM",sama aflam 
