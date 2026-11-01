@@ -81,15 +81,15 @@ http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",ho.ss.am 9618001-MawwalHD
 http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/AL-FAJER.png" group-title="AL FAJER",AR| AL FAJER 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="AL FAJER",AR| AL FAJER 1
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1806744&extension=ts&play_token=DJ503Yrrgd
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1806743.png" group-title="AL FAJER",AR| AL FAJER 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="AL FAJER",AR| AL FAJER 2
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1806743&extension=ts&play_token=IGhpBuBDbP
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1806742.png" group-title="AL FAJER",AR| AL FAJER 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="AL FAJER",AR| AL FAJER 3
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1806742&extension=ts&play_token=WUmc73p45p
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/AL-FAJER.png" group-title="AL FAJER",AR| AL FAJER 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="AL FAJER",AR| AL FAJER 4
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1806741&extension=ts&play_token=MMnrJ15IYX
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/AFRICA/AL-FAJER.png" group-title="AL FAJER",AR| AL FAJER 5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="AL FAJER",AR| AL FAJER 5
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1806740&extension=ts&play_token=kNA5CT732a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ng6V0RFg/images-11-modified.png" group-title="PAL.Radio",غزة-FM
 https://live.radiogaza.com/listen/radio_gaza/radio.mp3
@@ -1078,32 +1078,6 @@ http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800366.m
 #EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Azwaj Al Shayatin 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800365.mkv&play_token=vLHVTvhZbY&type=movie    
 #EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Avocato 
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1275584.png" group-title="تود| TOD",AR| TOD UNA
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275584&extension=ts&play_token=YKo6x2gdiR
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1275583.png" group-title="تود| TOD",AR| TOD DOS
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275583&extension=ts&play_token=xEAETjcbtt
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1275582.png" group-title="تود| TOD",AR| TOD TRES
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275582&extension=ts&play_token=cRUJK96P3O
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOD-LOGO.png" group-title="تود| TOD",AR| TOD CUATRO
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275581&extension=ts&play_token=mjVdtX1kM5
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1275580.png" group-title="تود| TOD",AR| TOD CINCO
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275580&extension=ts&play_token=bDKhJen56I
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOD-LOGO.png" group-title="تود| TOD",AR| TOD SEIS
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275579&extension=ts&play_token=PY240ut2cH
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1275578.png" group-title="تود| TOD",AR| TOD SIETE
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275578&extension=ts&play_token=yh7LLZLF3u
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1275577.png" group-title="تود| TOD",AR| TOD OCHO
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275577&extension=ts&play_token=hDPFS0kkov
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOD-LOGO.png" group-title="تود| TOD",AR| TOD NUEVE
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275576&extension=ts&play_token=zNnSYrnpkk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOD-LOGO.png" group-title="تود| TOD",AR| TOD DIEZ
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275575&extension=ts&play_token=ZypFk6enVt
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1275574.png" group-title="تود| TOD",AR| TDO ONCE
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275574&extension=ts&play_token=9OOSsdCGkU
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1275573.png" group-title="تود| TOD",AR| TOD TRECE
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275573&extension=ts&play_token=kWIMrB3H7r
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TOD-LOGO.png" group-title="تود| TOD",AR| TOD CATORCE
-http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1275572&extension=ts&play_token=snJDtTWEW2
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/133.jpg" group-title="WATCH IT",AR| أذكى غبي في العالم
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1209407&extension=ts&play_token=Ix3atY38yC
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/133.jpg" group-title="WATCH IT",AR| الكابتن جودة
