@@ -97,6 +97,8 @@ https://live.radiogaza.com/listen/radio_gaza/radio.mp3
 https://stream.tagpro.ae/listen/stream/gaza
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvs8kL6/rabaa1.png" group-title="PAL.Radio",صوت الرابعه
 https://radio.r4fm.ps/;stream.mp3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZtPVJjMHEhq_xyKXz6Gl_0399yOft3up2UUxuz5q5Vw&s" group-title="PAL.Radio",راديو ايام زمان
+https://stream-282.surfernetwork.com/aqx3usbtsg0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhcXgzdXNidHNnMHV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiIxR0Z3Y0lKSFNRT3NDT2RXX1Z0ZWZnIiwiaWF0IjoxNzkzODg0NDQ5LCJleHAiOjE3OTM4ODQ1MDl9.r3MWs7vDVtrPG-1EabdlpERj0jjE03zhWnXs7tNVuL0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RBXWfbH/trash.png" group-title="PAL.Radio",صوت الغد تراثي
 https://sawtelghad.org:8777/;
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HNsvQRx/seba.png" group-title="PAL.Radio",اذاعة الصحابه
