@@ -141,6 +141,8 @@ https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
 http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 tvg-name="Knesset" tvg-logo="https://i.imgur.com/PEdXHSE.png" tvg-id="Knesset.il" tvg-chno="99" tvg-country="IL" group-title="Israel",Knesset
 http://stream.mcquack.net/48/index.m3u8
+#EXTINF:-1 tvg-name="Qatar Television The Holy Quran" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevisionTheHolyQuran.qa" tvg-chno="3" tvg-country="QA" group-title="QURAN TV",Qatar Quran
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="QURAN TV",أحمد الحذيفي AHMAD ALHUTHAIFI
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665727&extension=ts&play_token=mgk7hJ5ms1
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="QURAN TV",أحمد الحواشي AHMAD AL HAWASHI
@@ -183,24 +185,28 @@ http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686151&ex
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686150&extension=ts&play_token=aNUXttcr7p
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ISLAMIC/ISLAM CHANNEL.png" group-title="QURAN TV", AL AFASY QURAN
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:90:11:fc&stream=686149&extension=ts&play_token=DBwmeWY0U3
-#EXTINF:-1 tvg-name="Al Jazeera العربية" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel.qa" tvg-chno="1" group-title="News (AR)",Al Jazeera العربية
+#EXTINF:-1 tvg-name="Al Jazeera العربية" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel.qa" tvg-chno="1" group-title="NEWS | أخبار",Al Jazeera العربية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/500px-Al-Arabiya_new_logo.svg.png" tvg-id="AlArabiya.ae" tvg-chno="2" group-title="News (AR)",Al Arabiya العربية
+#EXTINF:-1 tvg-name="Al Jazeera 2" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel2.qa" tvg-chno="7" tvg-country="QA" group-title="NEWS | أخبار",Al Jazeera 2
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" tvg-chno="6" tvg-country="QA" group-title="NEWS | أخبار",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-name="Al Arabiya العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/500px-Al-Arabiya_new_logo.svg.png" tvg-id="AlArabiya.ae" tvg-chno="2" group-title="NEWS | أخبار",Al Arabiya العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Hadath العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg" tvg-id="AlHadath.sa" tvg-chno="3" group-title="News (AR)",Al Hadath العربية
+#EXTINF:-1 tvg-name="Al Hadath العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg" tvg-id="AlHadath.sa" tvg-chno="3" group-title="NEWS | أخبار",Al Hadath العربية
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
-#EXTINF:-1 tvg-name="France 24 العربية" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24Arabic.fr" tvg-chno="4" group-title="News (AR)",France 24 العربية Ⓨ
+#EXTINF:-1 tvg-name="France 24 العربية" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24Arabic.fr" tvg-chno="4" group-title="NEWS | أخبار",France 24 العربية Ⓨ
 https://www.youtube.com/c/FRANCE24Arabic/live
-#EXTINF:-1 tvg-name="DW العربية" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWArabic.de" tvg-chno="5" group-title="News (AR)",DW العربية
+#EXTINF:-1 tvg-name="DW العربية" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWArabic.de" tvg-chno="5" group-title="NEWS | أخبار",DW العربية
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-name="CGTN العربية" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNArabic.cn" tvg-chno="6" group-title="News (AR)",CGTN العربية
+#EXTINF:-1 tvg-name="CGTN العربية" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNArabic.cn" tvg-chno="6" group-title="NEWS | أخبار",CGTN العربية
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky News العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/500px-Sky_News_logo.svg.png" tvg-id="SkyNewsArabia.ae" tvg-chno="7" group-title="News (AR)",Sky News العربية
+#EXTINF:-1 tvg-name="Sky News العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/500px-Sky_News_logo.svg.png" tvg-id="SkyNewsArabia.ae" tvg-chno="7" group-title="NEWS | أخبار",Sky News العربية
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-name="RT العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" tvg-id="RTArabic.ru" tvg-chno="8" group-title="News (AR)",RT العربية
+#EXTINF:-1 tvg-name="RT العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" tvg-id="RTArabic.ru" tvg-chno="8" group-title="NEWS | أخبار",RT العربية
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-name="Sahara 24 صحراء" tvg-logo="https://i.imgur.com/nOkf1fU.png" tvg-id="Sahara-24.mr" tvg-chno="9" group-title="News (AR)",Sahara 24 صحراء
-https://live.saharamedias.net:3317/live/shara24live.m3u8
+#EXTINF:-1 tvg-name="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-id="AlArabyTV.qa" tvg-chno="12" tvg-country="QA" group-title="NEWS | أخبار",Al Araby TV
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS | أخبار",┃AR┃ AL JAZEERA UHD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369178&extension=ts&play_token=nMfLT65HVW
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS | أخبار",┃AR┃ AL JAZEERA 4K
