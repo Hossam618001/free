@@ -1376,7 +1376,6 @@ http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1209402&exten
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1209401&extension=ts&play_token=hb7y21ac1o
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/133.jpg" group-title="WATCH IT",AR| تحت الوصاية
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1209400&extension=ts&play_token=e5QUMgIuIX
-http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800364.mkv&play_token=6KeMxxPV23&type=movie
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ARTROTANA/rotana-tv-live-stream.png" group-title=" ART | ROTANA | MBC",┃AR┃ ROTANA+ 4K
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=368920&extension=ts&play_token=smzOEpBJZE
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ARTROTANA/rotana-tv-live-stream.png" group-title=" ART | ROTANA | MBC",┃AR┃ ROTANA+ HD
