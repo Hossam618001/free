@@ -1446,6 +1446,25 @@ http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=368907&ext
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=368906&extension=ts&play_token=hkelARL7jj
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/ARTROTANA/Rotana_Music_New_Logo.png" group-title=" ART | ROTANA | MBC",┃AR┃ ROTANA MUSIC HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=368930&extension=ts&play_token=5KjivVcQe4
+#EXTINF:-1 tvg-name="MBC 1" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-id="MBC1.ae" tvg-chno="3" tvg-country="AE" group-title=" ART | ROTANA | MBC",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+#EXTINF:-1 tvg-name="MBC 2" tvg-logo="https://i.imgur.com/n9mSHuP.png" tvg-id="MBC2.ae" tvg-chno="4" tvg-country="AE" group-title=" ART | ROTANA | MBC",MBC 2 Ⓢ
+http://37.122.156.107:4000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-name="MBC 3" tvg-logo="https://i.imgur.com/PVt8OPN.png" tvg-id="MBC3.ae" tvg-chno="5" tvg-country="AE" group-title=" ART | ROTANA | MBC",MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1 tvg-name="MBC 4" tvg-logo="https://i.imgur.com/BcXASJp.png" tvg-id="MBC4.ae" tvg-chno="6" tvg-country="AE" group-title=" ART | ROTANA | MBC",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 tvg-name="MBC 5" tvg-logo="https://i.imgur.com/fRWaDyF.png" tvg-id="MBC5.ae" tvg-chno="7" tvg-country="AE" group-title=" ART | ROTANA | MBC",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:-1 tvg-name="MBC Action" tvg-logo="https://i.imgur.com/OWZAghw.png" tvg-id="MBCAction.ae" tvg-chno="8" tvg-country="AE" group-title=" ART | ROTANA | MBC",MBC Action Ⓢ
+http://37.122.156.107:4000/play/a07h/index.m3u8
+#EXTINF:-1 tvg-name="MBC Bollywood" tvg-logo="https://i.imgur.com/TTAGFHG.png" tvg-id="MBCBollywood.ae" tvg-chno="9" tvg-country="AE" group-title=" ART | ROTANA | MBC",MBC Bollywood
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 tvg-name="MBC Drama" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-id="MBCDrama.ae" tvg-chno="10" tvg-country="AE" group-title=" ART | ROTANA | MBC",MBC Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
+#EXTINF:-1 tvg-name="MBC Max" tvg-logo="https://i.imgur.com/A02CptP.png" tvg-id="MBCMax.ae" tvg-chno="11" tvg-country="AE" group-title=" ART | ROTANA | MBC",MBC Max Ⓢ
+http://37.122.156.107:4000/play/a07i/index.m3u8
+#EXTINF:-1 tvg-name="MBC Persia" tvg-logo="https://i.imgur.com/4FXiyjn.png" tvg-id="MBCPersia.ae" tvg-chno="12" tvg-country="AE" group-title="United Arab Emirates",MBC Persia
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MBC/MBCTV.png" group-title=" ART | ROTANA | MBC",┃AR┃ MBC 1 4K
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=368901&extension=ts&play_token=ODPHVI1HqX
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/MBC/MBCTV.png" group-title=" ART | ROTANA | MBC",┃AR┃ MBC 2 4K
