@@ -144,7 +144,7 @@ http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 tvg-name="Knesset" tvg-logo="https://i.imgur.com/PEdXHSE.png" tvg-id="Knesset.il" tvg-chno="99" tvg-country="IL" group-title="Israel",Knesset
 http://stream.mcquack.net/48/index.m3u8
 #EXTINF:-1 tvg-name="Qatar Television The Holy Quran" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevisionTheHolyQuran.qa" tvg-chno="3" tvg-country="QA" group-title="QURAN TV",Qatar Quran
-https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
+https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master480p.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="QURAN TV",أحمد الحذيفي AHMAD ALHUTHAIFI
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665727&extension=ts&play_token=mgk7hJ5ms1
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="QURAN TV",أحمد الحواشي AHMAD AL HAWASHI
