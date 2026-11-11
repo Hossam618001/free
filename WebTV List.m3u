@@ -41,6 +41,8 @@ http://188.225.225.227:1935/mylive/alsalam/myStream/index.m3u8
 http://htvajyal.mada.ps:8888/ajyal/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d5xPN8R/AJIAL.png" group-title="PAL.HOSSAM",hossam9618001-ajyal-sd
 http://htvajyal.mada.ps:8888/ajyalsd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vPxjdJ1/BNN.png" group-title="PAL.HOSSAM",hossam9618001-BNN
+https://vstream3.hadara.ps:8443/pnn/pnn/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rKppQj3p/New-Logos.webp" group-title="PAL.HOSSAM",Alaqsa
 https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",hossam.9618001-halaTV
