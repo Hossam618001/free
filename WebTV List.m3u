@@ -67,7 +67,7 @@ http://mn-nl.mncdn.com/palabroad/live/chunks.m3u8
 https://htvmada.mada.ps:4443/canaantv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5G05p80/madena.png" group-title="PAL.HOSSAM",AlMadinatv-المدينه
 http://streaming.zaytonatube.com:8080/AlMadinatv/almadina21/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",البعد الرابع d4 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FL0w5b1C/4d.png" group-title="PAL.HOSSAM",البعد الرابع d4 
 http://pbc.furrera.ps/4dmedia/4dpal1/mpegts//index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xjNt9CQ/bsma.png" group-title="PAL.HOSSAM",basma-بسمه
 https://stream.basma.ps/basma/live/chunklist_w615084027.m3u8
@@ -79,8 +79,14 @@ http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2WJsWvK/rehan.png" group-title="PAL.HOSSAM",ho.ss.am 9618001-rehan-hd
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",ho.ss.am 9618001-MawwalHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wCk1NZQ/mawwal1.png" group-title="PAL.HOSSAM",ho.ss.am 9618001-MawwalHD
 http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fLydYv/SHAL.png" group-title="PAL.HOSSAM",shbab/الشباب
+http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPpYGqJW/wram.png" group-title="PAL.HOSSAM",وين علي رام الله
+https://htvint.mada.ps/RamallahMunicipality/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WBQ9gh3/logo2.png" group-title="PAL.HOSSAM",Almahed/المهد
+http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="AL FAJER",AR| AL FAJER 1
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1806744&extension=ts&play_token=DJ503Yrrgd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="AL FAJER",AR| AL FAJER 2
