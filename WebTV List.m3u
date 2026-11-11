@@ -667,18 +667,6 @@ http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=908078&exten
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=908077&extension=ts&play_token=BV3DNR52Bs
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="STARZ PLAY",AR - إكس لانس
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=908076&extension=ts&play_token=s62FQBNSV8
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="[LIVE]- |AR| ALWAN",AR - ALWAN TURKEY 4K
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1388728&extension=ts&play_token=brQ4N0xNlL
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="[LIVE]- |AR| ALWAN",AR -  ALWAN MOSALSALAT 4K
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1388727&extension=ts&play_token=DD5fmitBIC
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="[LIVE]- |AR| ALWAN",AR - ALWAN ATFAL 4K
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1388726&extension=ts&play_token=eCQc5xF8br
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="[LIVE]- |AR| ALWAN",AR - ALWAN ALWATHAEQYE 4K
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1388725&extension=ts&play_token=Mo6TB6vepM
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="[LIVE]- |AR| ALWAN",AR - ALWAN AFLAM 2 4K
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1388724&extension=ts&play_token=J83ZXQMSe6
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/ALWAN.png" group-title="[LIVE]- |AR| ALWAN",AR - ALWAN AFLAM 1 4K
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1388723&extension=ts&play_token=jLecyTFD17
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ ACTION HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427942&extension=ts&play_token=uvTAfhNQy0
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ CRIME HD
