@@ -55,29 +55,29 @@ http://platform.topuphost.com:8577/live/baha2/playlist.m3u8
 https://flu.systemnet.tv/adwaa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/09ykJwh/k-alna.png" group-title="PAL.HOSSAM",kol.alnas-Black.saT*9618001
 http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",kol.alnas-World
+#EXTINF:-1 tvg-logo="https://i.ibb.co/09ykJwh/k-alna.png" group-title="PAL.HOSSAM",kol.alnas-World
 https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttp%3A%2F%2Fhtvmada.mada.ps%3A8888%2Fkolalnas%2Ftracks-v1a1%2Fmono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",raya1-BlAck/sat*9618001
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7MhtrQ/raya1.png" group-title="PAL.HOSSAM",raya1-BlAck/sat*9618001
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",nabls quran
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FhZYvQw/NABLS.png" group-title="PAL.HOSSAM",nabls quran
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",bLaCK-9618001-RAJEEN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nfc070T/raj.png" group-title="PAL.HOSSAM",bLaCK-9618001-RAJEEN
 http://mn-nl.mncdn.com/palabroad/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",canaan tv-كنعان
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwHks8Yw/canaan.png" group-title="PAL.HOSSAM",canaan tv-كنعان
 https://htvmada.mada.ps:4443/canaantv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",AlMadinatv-المدينه
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5G05p80/madena.png" group-title="PAL.HOSSAM",AlMadinatv-المدينه
 http://streaming.zaytonatube.com:8080/AlMadinatv/almadina21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",البعد الرابع d4 
 http://pbc.furrera.ps/4dmedia/4dpal1/mpegts//index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",basma-بسمه
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xjNt9CQ/bsma.png" group-title="PAL.HOSSAM",basma-بسمه
 https://stream.basma.ps/basma/live/chunklist_w615084027.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",moodfm-مود اف ام
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9mrwKffs/modfm.png" group-title="PAL.HOSSAM",moodfm-مود اف ام
 https://htvmada.mada.ps:4443/moodfm/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",blAck-sat-baladna-HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/72X6Vwg/baladna.png" group-title="PAL.HOSSAM",blAck-sat-baladna-HD
 http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",black-sAt-albalad-AR-HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b1LXtdH/albld.jpg" group-title="PAL.HOSSAM",black-sAt-albalad-AR-HD
 http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",ho.ss.am 9618001-rehan-hd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2WJsWvK/rehan.png" group-title="PAL.HOSSAM",ho.ss.am 9618001-rehan-hd
 http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="PAL.HOSSAM",ho.ss.am 9618001-MawwalHD
 http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
