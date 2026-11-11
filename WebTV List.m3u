@@ -365,8 +365,6 @@ http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=242235&ext
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=242234&extension=ts&play_token=3J4H4ciDr6
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924858.png" group-title="ARABIC FULL SD",AR - ZEE ALWAN LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924858&extension=ts&play_token=qXqEwfID97
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924855.png" group-title="ARABIC FULL SD",AR - ZEE AFLAM LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924855&extension=ts&play_token=rJYlHAeRJL
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924793.png" group-title="ARABIC FULL SD",AR - MIX BEL ARABY LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924793&extension=ts&play_token=8aED0HK4Z4
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924766.png" group-title="ARABIC FULL SD",AR - MIX ONE LQ
@@ -383,7 +381,7 @@ http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924854&exten
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924865&extension=ts&play_token=oIauwzWxdD
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924864.png" group-title="ARABIC FULL SD",AR - ABU DHABI TV LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924864&extension=ts&play_token=SM6sw0nkp2
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924863.png" group-title="[LIVE]- |AR| ARABIC FULL SD",AR - AL EMARAT TV LQ
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924863.png" group-title="ARABIC FULL SD",AR - AL EMARAT TV LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924863&extension=ts&play_token=WbO9JozW3V
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924862.png" group-title="ARABIC FULL SD",AR - FUJERA LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924862&extension=ts&play_token=eDpajqrNci
@@ -391,10 +389,6 @@ http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924862&exten
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924861&extension=ts&play_token=NFoEjyRm89
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924860.png" group-title="ARABIC FULL SD",AR - AJMAN TV LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924860&extension=ts&play_token=IOp6tP8y4D
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924924.png" group-title="ARABIC FULL SD",AR - SYRIA DRAMA LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924924&extension=ts&play_token=WNpoLLfsyN
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924923.png" group-title="ARABIC FULL SD",AR - SYRIA SATELLITE LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924923&extension=ts&play_token=Mn7h5fd5Jc
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924809.png" group-title="ARABIC FULL SD",AR - AL OULA LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924809&extension=ts&play_token=IRY7oytdXY
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924808.png" group-title="ARABIC FULL SD",AR - AL QAHERA NEWS LQ
@@ -425,12 +419,8 @@ http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924797&exten
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924796&extension=ts&play_token=yJ1OtE03ny
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924795.png" group-title="ARABIC FULL SD",AR - ALQANAT 9 LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924795&extension=ts&play_token=F4NzCEDZ1U
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924794.png" group-title="ARABIC FULL SD",AR - ETC LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924794&extension=ts&play_token=5Z8qWwXH35
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924791.png" group-title="ARABIC FULL SD",AR - CIMA LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924791&extension=ts&play_token=8qpmgVnR0I
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924790.png" group-title="ARABIC FULL SD",AR - NILE COMEDY LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924790&extension=ts&play_token=TTkugeUEU5
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924789.png" group-title="ARABIC FULL SD",AR - MEKAMELEEN TV LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924789&extension=ts&play_token=t9llPXz7Aq
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924788.png" group-title="ARABIC FULL SD",AR - NILE CINEMA LQ
@@ -461,8 +451,6 @@ http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924777&exten
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924776&extension=ts&play_token=XtoGgjrnYZ
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924775.png" group-title="ARABIC FULL SD",AR - SADA EL BALAD 2 LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924775&extension=ts&play_token=65TUwSBuBD
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924774.png" group-title="ARABIC FULL SD",AR - AL GHAD AL MUSHREQ LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924774&extension=ts&play_token=rS75MZKxx2
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924773.png" group-title="ARABIC FULL SD",AR - NOGOUM FM TV LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924773&extension=ts&play_token=bTnySyriRX
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924772.png" group-title="ARABIC FULL SD",AR - AL SHAMS LQ
@@ -477,22 +465,14 @@ http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924768&exten
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924765&extension=ts&play_token=5rEzyRfZmT
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924764.png" group-title="ARABIC FULL SD",AR - AL NAHAR ONE LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924764&extension=ts&play_token=eOVFhFyi3P
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924763.png" group-title="ARABIC FULL SD",AR - CBC LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924763&extension=ts&play_token=UgyZjwGTnV
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924762.png" group-title="ARABIC FULL SD",AR - CBC SOFRA LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924762&extension=ts&play_token=0ugUSmWAmu
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924761.png" group-title="ARABIC FULL SD",AR - CBC DRAMA LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924761&extension=ts&play_token=fl1wi1VxXd
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924657.png" group-title="ARABIC FULL SD",AR - on sport
+http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924657&extension=ts&play_token=6WIQcBGKon
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924660.png" group-title="ARABIC FULL SD",##### DOCUMENTER LOW INTERNET #####
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924660&extension=ts&play_token=zA0NfRJEqv
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924659.png" group-title="ARABIC FULL SD",AR - AD NATGEO LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924659&extension=ts&play_token=GJgKxcNCqM
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924658.png" group-title="ARABIC FULL SD",AR - CGTN ARABIC LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924658&extension=ts&play_token=OakgdvM9hH
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924657.png" group-title="ARABIC FULL SD",AR - NHK WORLD JAPAN LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924657&extension=ts&play_token=6WIQcBGKon
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924656.png" group-title="ARABIC FULL SD",AR - AL WATHAEQYA LQ
-http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924656&extension=ts&play_token=4zN4EWv3Og
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924655.png" group-title="ARABIC FULL SD",AR - ASHARQ DISCOVERY LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924655&extension=ts&play_token=y3nG6JbcY8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VWZd0b3c/emam.png" group-title="ACTORS 4K",AR - ADEL EMAM MOVIES
