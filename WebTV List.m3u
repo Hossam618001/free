@@ -117,7 +117,7 @@ https://sawtelghad.org:8444/;
 https://sawtelghad.org:8222/;
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dLtbGRv/makan.png" group-title="PAL.Radio",راديو مكان
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/radio_makan/live.livx/playlist.m3u8?renditions
-#EXTINF:-1 tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/8cc92354-550d-442c-8a32-209ee772a00f/images/logo" group-title="PAL.Radio",راديو فلسطيني
+#EXTINF:-1 tvg-logo="https://iili.io/oFH4geV.png" group-title="PAL.Radio",راديو فلسطيني
 https://palradio.radioca.st/;
 #EXTINF:-1 tvg-logo="https://amen24.ps/sites/default/files/amen-logo2_0.png" group-title="PAL.Radio",امن24-amen24
 https://rstream.hadara.ps/proxy/amen24/stream
