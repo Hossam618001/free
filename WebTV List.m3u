@@ -133,7 +133,7 @@ https://rstream.hadara.ps/proxy/raya/stream
 http://streamer.mada.ps:8034/orient
 #EXTINF:-1 tvg-logo="https://arn.ps/cached_uploads/fit/560/436/n/2021/05/05/anghamlogo-1620248171.png" group-title="PAL.Radio",ANGHAM-انغام
 http://streamer.mada.ps:8010/ANGHAM
-#EXTINF:-1 tvg-logo="https://hayat.ps/wp-content/uploads/2020/12/HAYAT_Logo_2020-01.svg" group-title="PAL.Radio",hayat-حياه
+#EXTINF:-1 tvg-logo="https://iili.io/oFH5pDu.png" group-title="PAL.Radio",hayat-حياه
 https://rstream.hadara.ps/proxy/hayat/stream.mp3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xtzYth4T/unnamed-1-modified.png" group-title="PAL.Radio",nas-ناس الناصره
 https://live1.nasapp.net/nas/live_audio.m3u8
