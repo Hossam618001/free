@@ -87,6 +87,10 @@ http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
 https://streaming.zaytonatube.com:8081/ShababFM/shabab/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jPpYGqJW/wram.png" group-title="PAL.HOSSAM",وين علي رام الله
 https://htvint.mada.ps/RamallahMunicipality/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/oK92mOb.png" group-title="PAL.HOSSAM",آسيا
+https://flu.systemnet.tv/asia/index.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/oK92b5u.png" group-title="PAL.HOSSAM",سوا
+https://flu.systemnet.tv/swa/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WBQ9gh3/logo2.png" group-title="PAL.HOSSAM",Almahed/المهد
 http://vstream3.hadara.ps:8081/Almahed/Almahed/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RS3HhkS/FAJR.png" group-title="AL FAJER",AR| AL FAJER 1
