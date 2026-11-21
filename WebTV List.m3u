@@ -225,27 +225,27 @@ http://onaexpress.xyz:80/play/live.php?mac=00:1A:79:d1:90:a8&stream=1431999&exte
 http://onaexpress.xyz:80/play/live.php?mac=00:1A:79:d1:90:a8&stream=1432015&extension=ts&play_token=TjF8nMWsx4&sn2=
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/BALANCEQURAN.png" group-title="QURAN TV",AR - BALANCE QURAN 15
 http://onaexpress.xyz:80/play/live.php?mac=00:1A:79:d1:90:a8&stream=1432014&extension=ts&play_token=kOc35sbc4b&sn2=
-#EXTINF:-1 tvg-name="Al Jazeera العربية" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel.qa" tvg-chno="1" group-title="NEWS | أخبار",Al Jazeera العربية
+#EXTINF:-1 tvg-name="Al Jazeera العربية" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel.qa" tvg-chno="1" group-title="NEWS",Al Jazeera العربية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera 2" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel2.qa" tvg-chno="7" tvg-country="QA" group-title="NEWS | أخبار",Al Jazeera 2
+#EXTINF:-1 tvg-name="Al Jazeera 2" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel2.qa" tvg-chno="7" tvg-country="QA" group-title="NEWS",Al Jazeera 2
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" tvg-chno="6" tvg-country="QA" group-title="NEWS | أخبار",Al Jazeera Mubasher
+#EXTINF:-1 tvg-name="Al Jazeera Mubasher" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png" tvg-id="AlJazeeraMubasher.qa" tvg-chno="6" tvg-country="QA" group-title="NEWS",Al Jazeera Mubasher
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 tvg-name="Al Arabiya العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/500px-Al-Arabiya_new_logo.svg.png" tvg-id="AlArabiya.ae" tvg-chno="2" group-title="NEWS | أخبار",Al Arabiya العربية
+#EXTINF:-1 tvg-name="Al Arabiya العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Al-Arabiya_new_logo.svg/500px-Al-Arabiya_new_logo.svg.png" tvg-id="AlArabiya.ae" tvg-chno="2" group-title="NEWS",Al Arabiya العربية
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Hadath العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg" tvg-id="AlHadath.sa" tvg-chno="3" group-title="NEWS | أخبار",Al Hadath العربية
+#EXTINF:-1 tvg-name="Al Hadath العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg" tvg-id="AlHadath.sa" tvg-chno="3" group-title="NEWS",Al Hadath العربية
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
-#EXTINF:-1 tvg-name="Al Ghad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png" tvg-id="AlGhadTV.eg" tvg-chno="3" tvg-country="EG" group-title="NEWS | أخبار",Al Ghad TV
+#EXTINF:-1 tvg-name="Al Ghad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png" tvg-id="AlGhadTV.eg" tvg-chno="3" tvg-country="EG" group-title="NEWS",Al Ghad TV
 https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
-#EXTINF:-1 tvg-name="DW العربية" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWArabic.de" tvg-chno="5" group-title="NEWS | أخبار",DW العربية
+#EXTINF:-1 tvg-name="DW العربية" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWArabic.de" tvg-chno="5" group-title="NEWS",DW العربية
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 tvg-name="CGTN العربية" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNArabic.cn" tvg-chno="6" group-title="NEWS | أخبار",CGTN العربية
+#EXTINF:-1 tvg-name="CGTN العربية" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTNArabic.cn" tvg-chno="6" group-title="NEWS",CGTN العربية
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-name="Sky News العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/500px-Sky_News_logo.svg.png" tvg-id="SkyNewsArabia.ae" tvg-chno="7" group-title="NEWS | أخبار",Sky News العربية
+#EXTINF:-1 tvg-name="Sky News العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/500px-Sky_News_logo.svg.png" tvg-id="SkyNewsArabia.ae" tvg-chno="7" group-title="NEWS",Sky News العربية
 https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-name="RT العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" tvg-id="RTArabic.ru" tvg-chno="8" group-title="NEWS | أخبار",RT العربية
+#EXTINF:-1 tvg-name="RT العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" tvg-id="RTArabic.ru" tvg-chno="8" group-title="NEWS",RT العربية
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-name="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-id="AlArabyTV.qa" tvg-chno="12" tvg-country="QA" group-title="NEWS | أخبار",Al Araby TV
+#EXTINF:-1 tvg-name="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-id="AlArabyTV.qa" tvg-chno="12" tvg-country="QA" group-title="NEWS",Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS",┃AR┃ AL JAZEERA UHD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369178&extension=ts&play_token=nMfLT65HVW
@@ -811,25 +811,25 @@ http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=908078&exten
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=908077&extension=ts&play_token=BV3DNR52Bs
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/STARZ--PLAY.png" group-title="STARZ PLAY",AR - إكس لانس
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=908076&extension=ts&play_token=s62FQBNSV8
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ ACTION HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVES",AR - STARZ ACTION HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427942&extension=ts&play_token=uvTAfhNQy0
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ CRIME HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVES",AR - STARZ CRIME HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427945&extension=ts&play_token=xsNJh2np9L
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ COMEDY HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVES",AR - STARZ COMEDY HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427947&extension=ts&play_token=GtUJyR8S18
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ HORROR HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVES",AR - STARZ HORROR HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427943&extension=ts&play_token=wfqWgZ0F0I
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ THRILLER HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVES",AR - STARZ THRILLER HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427944&extension=ts&play_token=lrzyH6ruIJ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ CINAME HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVES",AR - STARZ CINAME HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427946&extension=ts&play_token=uzcT1rfAi8
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ KIDS HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVES",AR - STARZ KIDS HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427948&extension=ts&play_token=6VGxSaPoJB
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ MASRAH HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVES",AR - STARZ MASRAH HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427949&extension=ts&play_token=e1EiBxPH8G
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ GULF HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVES",AR - STARZ GULF HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427950&extension=ts&play_token=bNPGqk4sNx
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ INDIAN HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVES",AR - STARZ INDIAN HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427951&extension=ts&play_token=5k0QtYujpm
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 10HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1428000&extension=ts&play_token=E50wXbOaTP
