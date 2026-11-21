@@ -247,33 +247,33 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1 tvg-name="Al Araby TV" tvg-logo="https://i.imgur.com/YMqWEe4.png" tvg-id="AlArabyTV.qa" tvg-chno="12" tvg-country="QA" group-title="NEWS | أخبار",Al Araby TV
 https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS | أخبار",┃AR┃ AL JAZEERA UHD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS",┃AR┃ AL JAZEERA UHD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369178&extension=ts&play_token=nMfLT65HVW
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS | أخبار",┃AR┃ AL JAZEERA 4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS",┃AR┃ AL JAZEERA 4K
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369177&extension=ts&play_token=KLRnnfhWEC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS | أخبار",┃AR┃ AL JAZEERA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS",┃AR┃ AL JAZEERA
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369176&extension=ts&play_token=vfxJVmxzbN
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/aljazeeramubasher.png" group-title="NEWS | أخبار",┃AR┃ AL JAZEERA MUBASHER HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/aljazeeramubasher.png" group-title="NEWS",┃AR┃ AL JAZEERA MUBASHER HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369175&extension=ts&play_token=qdr2BIRtsi
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/aljazeeramubasher.png" group-title="NEWS | أخبار",┃AR┃ AL JAZEERA MUBASHER
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/aljazeeramubasher.png" group-title="NEWS",┃AR┃ AL JAZEERA MUBASHER
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369174&extension=ts&play_token=Sx2zlfnYQ8
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS | أخبار",┃AR┃ AL JAZEERA ENGLISH 4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS",┃AR┃ AL JAZEERA ENGLISH 4K
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369173&extension=ts&play_token=kkhIJeTQoH
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS | أخبار",┃AR┃ AL JAZEERA DOCUMENTARY HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Jazeera.png" group-title="NEWS",┃AR┃ AL JAZEERA DOCUMENTARY HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1461537&extension=ts&play_token=D1WQ74fGlh
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Arabiya_new_logo.png" group-title="NEWS | أخبار",┃AR┃ AL ARABIYA 4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Arabiya_new_logo.png" group-title="NEWS",┃AR┃ AL ARABIYA 4K
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369172&extension=ts&play_token=J0dQcqnjWq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Arabiya_new_logo.png" group-title="NEWS | أخبار",┃AR┃ AL ARABIYA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/Al-Arabiya_new_logo.png" group-title="NEWS",┃AR┃ AL ARABIYA HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369171&extension=ts&play_token=n5IQVWxlkl
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/alaraby.png" group-title="NEWS | أخبار",┃AR┃ AL ARABY 4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/alaraby.png" group-title="NEWS",┃AR┃ AL ARABY 4K
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369170&extension=ts&play_token=8Em5T5Cegk
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/alaraby.png" group-title="NEWS | أخبار",┃AR┃ AL ARABY 2 4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/alaraby.png" group-title="NEWS",┃AR┃ AL ARABY 2 4K
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369169&extension=ts&play_token=xiwsM9ZEYb
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/alaraby.png" group-title="NEWS | أخبار",┃AR┃ AL ARABY 2 HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/alaraby.png" group-title="NEWS",┃AR┃ AL ARABY 2 HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369168&extension=ts&play_token=dU6U2TuUW0
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/alarabiyahadath.png" group-title="NEWS | أخبار",┃AR┃ AL ARABIYA HADATH 4K
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/alarabiyahadath.png" group-title="NEWS",┃AR┃ AL ARABIYA HADATH 4K
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369167&extension=ts&play_token=shD7htBHJQ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/alarabiyahadath.png" group-title="NEWS | أخبار",┃AR┃ AL ARABIYA HADATH
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NEWS/alarabiyahadath.png" group-title="NEWS",┃AR┃ AL ARABIYA HADATH
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=369166&extension=ts&play_token=1kO3v53f9Z
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 1.png" group-title="BEIN SPORTS",BEIN SPORTS 1 HEVC
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=798795&extension=ts&play_token=pws1AbxMRM
@@ -639,117 +639,117 @@ http://my-tv.sbs:80/play/live.php?mac=00:1A:79:63:0c:0d&stream=1006904&extension
 http://my-tv.sbs:80/play/live.php?mac=00:1A:79:63:0c:0d&stream=1006901&extension=ts&play_token=w1jPaDCSkW&sn2=
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AFRICA/TOM-HANKS.png" group-title="ACTORS 4K",AR - TOM HANKS MOVIES+
 http://my-tv.sbs:80/play/live.php?mac=00:1A:79:63:0c:0d&stream=1006902&extension=ts&play_token=2WqEmNfF0X&sn2=
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.pn" group-title="POWER | باور",┃AR┃ POWER ACTION
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.pn" group-title="POWER",┃AR┃ POWER ACTION
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672048&extension=ts&play_token=sGP0U0rT1I
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER ACTION +1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER ACTION +1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672027&extension=ts&play_token=6uKJ7rBwsh
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER DRAMA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER DRAMA
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672043&extension=ts&play_token=VHNna18PDk
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER DRAMA +1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER DRAMA +1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672026&extension=ts&play_token=UIQBp0KBqB
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER DISNEY
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER DISNEY
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672031&extension=ts&play_token=avTCXjus5a
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER DISNEY +1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER DISNEY +1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672019&extension=ts&play_token=0symqyuRLt
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER SPIDER
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER SPIDER
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672034&extension=ts&play_token=30owwb07xO
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER SPIDER +1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER SPIDER +1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672020&extension=ts&play_token=ova3mWOfqR
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER MARVEL
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER MARVEL
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672037&extension=ts&play_token=HaApZcSYjK
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER MARVEL +1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER MARVEL +1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672025&extension=ts&play_token=utgNTRNzSC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER AVANGERS
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER AVANGERS
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672036&extension=ts&play_token=7bRH3Dvm6B
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER AVANGERS +1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER AVANGERS +1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672024&extension=ts&play_token=liOu7YOfBv
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER THOR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER THOR
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672035&extension=ts&play_token=NwA87fUDe5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER | باور",┃AR┃ POWER THOR +1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/POWER/POWER.png" group-title="POWER",┃AR┃ POWER THOR +1
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=672023&extension=ts&play_token=iCPknewMmG
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX ARABIC 1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX ARABIC 1
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653125&extension=ts&play_token=fRTc6WQawN
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX ARABIC 2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX ARABIC 2
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653126&extension=ts&play_token=ryVUBYssvU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX ARABIC 3
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX ARABIC 3
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653127&extension=ts&play_token=TQ26mn2pr9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX ACTION HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX ACTION HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653148&extension=ts&play_token=3eJVUP4Ifm
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX ACTION 1
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX ACTION 1
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653129&extension=ts&play_token=4uWd7K3fdL
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX ACTION 2
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX ACTION 2
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653130&extension=ts&play_token=cPZEX9mgbU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX ACTION WAR
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX ACTION WAR
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653131&extension=ts&play_token=9OZDdfRvi5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX AFLAM HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX AFLAM HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653155&extension=ts&play_token=jamDGZi0KL
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX ALWAN HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX ALWAN HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653156&extension=ts&play_token=Xa6laczsdi
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX ANIMATION
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX ANIMATION
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653144&extension=ts&play_token=fenZJVUT9D
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX ARABIC CLASSIC
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX ARABIC CLASSIC
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653128&extension=ts&play_token=5IKVud2R3U
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃  NETFLIX CIMA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃  NETFLIX CIMA HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653159&extension=ts&play_token=nele1RRu1z
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX CINEMA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX CINEMA HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653146&extension=ts&play_token=llZyZK3GGZ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX | نتفليكس ",┃EG┃ NETFLIX CLASSIC HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/Argentina/┃AR┃ OD NETFLIX EGYPT/NET.png" group-title=" NETFLIX",┃EG┃ NETFLIX CLASSIC HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=1653153&extension=ts&play_token=FcjUClhY4T
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX HOME CINEMA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX HOME CINEMA HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672115&extension=ts&play_token=Hnqre8DqSq
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX CINEMA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX CINEMA HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672114&extension=ts&play_token=f0RaJzckMS
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX FILM HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX FILM HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672107&extension=ts&play_token=TNMb0ejkxX
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX ACTION HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX ACTION HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672112&extension=ts&play_token=dxRifAtl0o
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX COMEDY HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX COMEDY HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672110&extension=ts&play_token=lX5rqXfWOE
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX FAMILY HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX FAMILY HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672108&extension=ts&play_token=zgcKam4vc9
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX DRAMA HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX DRAMA HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672109&extension=ts&play_token=QyldgO9W9j
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX MASRAHIAAT HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX MASRAHIAAT HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672100&extension=ts&play_token=XkZDlZYMeD
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX CLASSIC HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX CLASSIC HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672101&extension=ts&play_token=n2c1KpzUOQ
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX SHOW HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX SHOW HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672105&extension=ts&play_token=cTRx3UzczY
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX AFLAM HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX AFLAM HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672111&extension=ts&play_token=2hQMFKWYY7
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX ALWAN HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX ALWAN HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672103&extension=ts&play_token=qp1FdIr4OC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX ZAMAN HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX ZAMAN HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672102&extension=ts&play_token=ReILA1nCgm
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX | نتفليكس ",┃AR┃ NETFLIX TIME HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/NETFLIX/NETFLIX.png" group-title=" NETFLIX",┃AR┃ NETFLIX TIME HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672104&extension=ts&play_token=UVseMdfRT6
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP ACTION HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP ACTION HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672396&extension=ts&play_token=IxBuPOWr69
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP ACTION HD (EN)
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP ACTION HD (EN)
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672395&extension=ts&play_token=Dw03yoQ7es
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP COMEDY HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP COMEDY HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672394&extension=ts&play_token=QLF3OyboAM
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP MARVEL HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP MARVEL HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672393&extension=ts&play_token=PsOsK5RV8P
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP TURKI HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP TURKI HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672392&extension=ts&play_token=kNZ9qLOmwj
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP ASIAN HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP ASIAN HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672391&extension=ts&play_token=x4O4AG9Xeb
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP BOLLYWOOD HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP BOLLYWOOD HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672390&extension=ts&play_token=PnsSkMqM7s
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP WRESTLING HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP WRESTLING HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672389&extension=ts&play_token=790D4QNrDU
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP ANIMATION HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP ANIMATION HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672388&extension=ts&play_token=CqeTNHq1Ir
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP ANIMATION HD (EN)
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP ANIMATION HD (EN)
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672387&extension=ts&play_token=JtahmDiIm5
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP CLIP HD
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP CLIP HD
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672386&extension=ts&play_token=UEUy5Rr6Is
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP 3D
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP 3D
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672385&extension=ts&play_token=0IHTVghiDT
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP الثقافية
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP الثقافية
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672384&extension=ts&play_token=CQ9AyltVsC
-#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP | شاهد VIP",┃AR┃ SHAHID VIP AL OULA
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/SHAHID VIP/SHAHID VIP.png" group-title=" SHAHID VIP",┃AR┃ SHAHID VIP AL OULA
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672383&extension=ts&play_token=CEcvJ8qNhx
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/logos/PRIME-PRIME.png" group-title="PRIME VIDEO",##### AMAZON PRIME 4K #####
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1920716&extension=ts&play_token=2YpLYpHXGq
@@ -831,59 +831,59 @@ http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427949&exte
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427950&extension=ts&play_token=bNPGqk4sNx
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/STARZ.png" group-title="STARZ MOVIES",AR - STARZ INDIAN HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427951&extension=ts&play_token=5k0QtYujpm
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA 10HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 10HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1428000&extension=ts&play_token=E50wXbOaTP
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA 9HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 9HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427999&extension=ts&play_token=j1YV80v4JJ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA 8HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 8HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427998&extension=ts&play_token=motMm5bPAI
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA 7HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 7HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427997&extension=ts&play_token=pYs2A5Ms5o
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA 6HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 6HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427996&extension=ts&play_token=jvIMyWdxa2
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA 5HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 5HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427995&extension=ts&play_token=eprUEKyeGY
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA 4HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 4HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427994&extension=ts&play_token=hRKTwpVcvq
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA 3HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 3HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427993&extension=ts&play_token=toz2vAJ2FJ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA 2HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 2HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427992&extension=ts&play_token=ZIq4w9cuCt
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA 1HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA 1HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427991&extension=ts&play_token=hegRAhQOSB
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA PREMIUM 3HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA PREMIUM 3HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427990&extension=ts&play_token=I3vLnAXdKP
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA PREMIUM 2HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA PREMIUM 2HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427989&extension=ts&play_token=GwMh3ymjKQ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CINEMA",AR - HOME CINEMA PREMIUM HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/HOMECINEMA.png" group-title="HOME CIMA",AR - HOME CINEMA PREMIUM HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427988&extension=ts&play_token=16zO8pWbjO
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV DOCUMENTORY HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV DOCUMENTORY HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427986&extension=ts&play_token=MKNGvoEtXU
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV MASR7 MASR HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV MASR7 MASR HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427985&extension=ts&play_token=f0YpbKb1EO
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV MASR7YAT HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV MASR7YAT HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427984&extension=ts&play_token=bLNijAaJuJ
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV CLASSIC HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV CLASSIC HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427983&extension=ts&play_token=Jv7p7u7W8q
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV SOM3A HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV SOM3A HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427982&extension=ts&play_token=lUBWFhPegx
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV KIDS 2HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV KIDS 2HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427981&extension=ts&play_token=i7EVYiZDYb
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV KIDS HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV KIDS HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427980&extension=ts&play_token=1D6djV6mfS
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV HINDI 2HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV HINDI 2HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427979&extension=ts&play_token=l4jvq7O3Ep
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV HINDI HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV HINDI HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427978&extension=ts&play_token=1ykpOz7VLx
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV SUPER HERO HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV SUPER HERO HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427977&extension=ts&play_token=0naT6cDzvS
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV THRILLER HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV THRILLER HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427976&extension=ts&play_token=YfMbUzUrMC
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV CINEMA HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV CINEMA HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427975&extension=ts&play_token=5T0Kklk0A6
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV COMEDY HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV COMEDY HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427974&extension=ts&play_token=1ST0B8fZhN
-#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVIES",AR - KTV AFLAM HD
+#EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/ARABICNEW/KTV.png" group-title="KTV MOVES",AR - KTV AFLAM HD
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=1427973&extension=ts&play_token=X7WzGCFGhO
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/WATCHBOX/WATCHBOX.png" group-title="WATCHBOX ┃ SHOOF MAX",┃AR┃ WATCHBOX SIGNAL
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=672014&extension=ts&play_token=H8o6HQBRFf
@@ -1045,445 +1045,445 @@ http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=661053&ext
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=661052&extension=ts&play_token=b1sKcA6cQm
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/KIDS/almajdkids.png" group-title="KIDS",┃AR┃ AL MAJD KIDS
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=661048&extension=ts&play_token=EoXGjPjg7l
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/421646.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 1 FHD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/421646.png" group-title="BOX OFFICE",AR| BOX OFFICE 1 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421646&extension=ts&play_token=Hd0P2btFxy
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/421645.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 2 FHD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/421645.png" group-title="BOX OFFICE",AR| BOX OFFICE 2 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421645&extension=ts&play_token=NRLyRWxb9B
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/421644.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 3 FHD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/421644.png" group-title="BOX OFFICE",AR| BOX OFFICE 3 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421644&extension=ts&play_token=jbupISDOdW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 4 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE",AR| BOX OFFICE 4 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421643&extension=ts&play_token=CtKgI3zOPI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 5 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE",AR| BOX OFFICE 5 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421642&extension=ts&play_token=uekmIPnlZa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 6 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE",AR| BOX OFFICE 6 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421641&extension=ts&play_token=cKpz83j95k
-#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 7 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE",AR| BOX OFFICE 7 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421640&extension=ts&play_token=CTruntsuKI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 8 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE",AR| BOX OFFICE 8 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421639&extension=ts&play_token=WeKROiZN5a
-#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 9 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE",AR| BOX OFFICE 9 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421638&extension=ts&play_token=AdcEXZtAVR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 10 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE",AR| BOX OFFICE 10 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421637&extension=ts&play_token=AXEuA0WjqS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 11 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE",AR| BOX OFFICE 11 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421636&extension=ts&play_token=Yb335hGvlf
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/421635.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 12 FHD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/421635.png" group-title="BOX OFFICE",AR| BOX OFFICE 12 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421635&extension=ts&play_token=TeQtCsvbaD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="بوكس اوفس| BOX OFFICE",AR| BOX OFFICE 13 FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/73.png" group-title="BOX OFFICE",AR| BOX OFFICE 13 FHD
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=421634&extension=ts&play_token=X5zOIMuyQD
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية", غسيل ممنوع من النشر (2025)
+#EXTINF:-1 group-title="  ARABIC PLAYS", غسيل ممنوع من النشر (2025)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749419.mkv&play_token=9Y3VKsrIHb&type=movie
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية", المدينة الترفيهية (2025)
+#EXTINF:-1 group-title="  ARABIC PLAYS", المدينة الترفيهية (2025)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749416.mkv&play_token=hfjyckXhoV&type=movie
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   المزدوجين
+#EXTINF:-1 group-title="  ARABIC PLAYS",   المزدوجين
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749415.mkv&play_token=cAt6whXiFM&type=movie
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",Ara - 2008
+#EXTINF:-1 group-title="  ARABIC PLAYS",Ara - 2008
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1738368.mkv&play_token=AzxqUMWgqo&type=movie
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    انستونا (2026)
+#EXTINF:-1 group-title="  ARABIC PLAYS",    انستونا (2026)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1576569.mkv&play_token=xNWplwwk4a&type=movie
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الزعيم
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الزعيم
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1356162.mkv&play_token=jQd35eDcnk&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الواد سيد الشغال
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الواد سيد الشغال
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1356161.mkv&play_token=ATzZ0Jin1j&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية المحترمين
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية المحترمين
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1198273.mkv&play_token=0huH5BdDYW&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   المضيئين
+#EXTINF:-1 group-title="  ARABIC PLAYS",   المضيئين
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1174464.mkv&play_token=exppOmdC8L&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   شيخ روحاني
+#EXTINF:-1 group-title="  ARABIC PLAYS",   شيخ روحاني
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1149266.mkv&play_token=O5YM4bt4cx&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الأول من نوعه
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الأول من نوعه
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1117072.mkv&play_token=lUC4422RTe&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",إلا خمسة - 1963
+#EXTINF:-1 group-title="  ARABIC PLAYS",إلا خمسة - 1963
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033264.mkv&play_token=PrzfB0GOYu&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية يا مسافر وحدك
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية يا مسافر وحدك
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033299.mkv&play_token=rH3x3OhG5o&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   وجهة نظر
+#EXTINF:-1 group-title="  ARABIC PLAYS",   وجهة نظر
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033298.mkv&play_token=wxa0t3r8cJ&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   غسيل ممنوع من النشر (2025)
+#EXTINF:-1 group-title="  ARABIC PLAYS",   غسيل ممنوع من النشر (2025)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749419.mkv&play_token=1DCbojNZaU&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   المدينة الترفيهية (2025)
+#EXTINF:-1 group-title="  ARABIC PLAYS",   المدينة الترفيهية (2025)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749416.mkv&play_token=anDDzQiJY7&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   المزدوجين
+#EXTINF:-1 group-title="  ARABIC PLAYS",   المزدوجين
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1749415.mkv&play_token=5YLfutjIrS&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",Ara - 2008
+#EXTINF:-1 group-title="  ARABIC PLAYS",Ara - 2008
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1738368.mkv&play_token=BKuDGBGP5H&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    انستونا (2026)
+#EXTINF:-1 group-title="  ARABIC PLAYS",    انستونا (2026)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1576569.mkv&play_token=dj50aEJLnl&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الزعيم
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الزعيم
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1356162.mkv&play_token=2BoSZXHM7a&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الواد سيد الشغال
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الواد سيد الشغال
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1356161.mkv&play_token=AHl8yK4ofH&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية المحترمين
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية المحترمين
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1198273.mkv&play_token=hXlSl0IUFX&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   المضيئين
+#EXTINF:-1 group-title="  ARABIC PLAYS",   المضيئين
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1174464.mkv&play_token=lJq9xmt38C&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   شيخ روحاني
+#EXTINF:-1 group-title="  ARABIC PLAYS",   شيخ روحاني
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1149266.mkv&play_token=qKe7js2Xkm&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الأول من نوعه
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الأول من نوعه
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1117072.mkv&play_token=Yq6zkx8YlN&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",إلا خمسة - 1963
+#EXTINF:-1 group-title="  ARABIC PLAYS",إلا خمسة - 1963
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033264.mkv&play_token=CKbcBEHd5L&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية يا مسافر وحدك
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية يا مسافر وحدك
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033299.mkv&play_token=qvlhqhQ1zR&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   وجهة نظر
+#EXTINF:-1 group-title="  ARABIC PLAYS",   وجهة نظر
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033298.mkv&play_token=zVPy7FRLD0&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   هاللو شلبي
+#EXTINF:-1 group-title="  ARABIC PLAYS",   هاللو شلبي
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033297.mkv&play_token=vyAF5ty3rE&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   نمرة 2 يكسب
+#EXTINF:-1 group-title="  ARABIC PLAYS",   نمرة 2 يكسب
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033296.mkv&play_token=wyg7ZArBxD&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   موسيكا في الحي الشرقي
+#EXTINF:-1 group-title="  ARABIC PLAYS",   موسيكا في الحي الشرقي
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033295.mkv&play_token=vrf44FrQaF&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مطار الحب
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مطار الحب
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033294.mkv&play_token=RwpPWiThjb&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   لوكاندة الفردوس
+#EXTINF:-1 group-title="  ARABIC PLAYS",   لوكاندة الفردوس
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033291.mkv&play_token=YlxuszR52s&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   كنز الدنيا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   كنز الدنيا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033290.mkv&play_token=41JP1NgYcE&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   كل واحد وله عفريت
+#EXTINF:-1 group-title="  ARABIC PLAYS",   كل واحد وله عفريت
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033289.mkv&play_token=Cmnr2mwvod&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   كل الرجالة كده
+#EXTINF:-1 group-title="  ARABIC PLAYS",   كل الرجالة كده
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033288.mkv&play_token=9PZljgAQZ9&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   كده اوكيه
+#EXTINF:-1 group-title="  ARABIC PLAYS",   كده اوكيه
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033287.mkv&play_token=lnXHbjZP8B&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   قصر الشوق
+#EXTINF:-1 group-title="  ARABIC PLAYS",   قصر الشوق
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033285.mkv&play_token=YOv9LUGDLL&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   فندق الأشغال الشاقة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   فندق الأشغال الشاقة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033284.mkv&play_token=l0JRMpBR2b&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   عفريت لكل مواطن
+#EXTINF:-1 group-title="  ARABIC PLAYS",   عفريت لكل مواطن
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033283.mkv&play_token=BiphTEKQZc&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   طبيخ الملايكة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   طبيخ الملايكة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033282.mkv&play_token=0LkTc4sbeD&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   شاهد ما شفش حاجة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   شاهد ما شفش حاجة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033281.mkv&play_token=s9EyLFQ68S&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   سنة مع الشغل اللذيذ
+#EXTINF:-1 group-title="  ARABIC PLAYS",   سنة مع الشغل اللذيذ
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033280.mkv&play_token=lQWmR1vzNC&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   سكر زيادة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   سكر زيادة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033279.mkv&play_token=dmXVj8lUNJ&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   رقص الديوك
+#EXTINF:-1 group-title="  ARABIC PLAYS",   رقص الديوك
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033277.mkv&play_token=cMgnJIAZZu&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   دول عصابة يا بابا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   دول عصابة يا بابا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033276.mp4&play_token=A2yREYT7Ll&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   حواديت
+#EXTINF:-1 group-title="  ARABIC PLAYS",   حواديت
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033275.mkv&play_token=1megAIGnaN&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   جوليو ورومييت
+#EXTINF:-1 group-title="  ARABIC PLAYS",   جوليو ورومييت
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033274.mkv&play_token=WAyjkCg6UM&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   تخاريف
+#EXTINF:-1 group-title="  ARABIC PLAYS",   تخاريف
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033273.mkv&play_token=VKbx4blWJF&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الملك لير
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الملك لير
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033271.mkv&play_token=bUt9F8egLQ&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   المحظوظ وأنا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   المحظوظ وأنا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033270.mp4&play_token=UsfEuxO5P3&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   العيال كبرت
+#EXTINF:-1 group-title="  ARABIC PLAYS",   العيال كبرت
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033269.mkv&play_token=PdbKq57cvN&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الراجل اللي جوز مراته
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الراجل اللي جوز مراته
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033268.mkv&play_token=qcll9ePN0Z&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الدلوعة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الدلوعة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033267.mkv&play_token=z0ZTeLDWTF&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   البرنسيسة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   البرنسيسة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033266.mkv&play_token=C8aUEX3pdW&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   اهلا رمضان
+#EXTINF:-1 group-title="  ARABIC PLAYS",   اهلا رمضان
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033263.mkv&play_token=wCWybxLDTX&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية منور يا باشا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية منور يا باشا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1033262.mkv&play_token=DT5aVJmTGd&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   20 فرخة وديك
+#EXTINF:-1 group-title="  ARABIC PLAYS",   20 فرخة وديك
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026097.mkv&play_token=vmsISDuYyX&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    دقي يا مزيكا
+#EXTINF:-1 group-title="  ARABIC PLAYS",    دقي يا مزيكا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026096.mkv&play_token=tjw1O18cvw&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية والسيدة حرمه
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية والسيدة حرمه
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026095.mkv&play_token=zO9O857dsj&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   نيولوك
+#EXTINF:-1 group-title="  ARABIC PLAYS",   نيولوك
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026094.mkv&play_token=nncpPPSpG2&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",  مين ما بيحبش زوبة
+#EXTINF:-1 group-title="  ARABIC PLAYS",  مين ما بيحبش زوبة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026093.mkv&play_token=DBHD3dblP1&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   من يضحك أخير
+#EXTINF:-1 group-title="  ARABIC PLAYS",   من يضحك أخير
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026091.mkv&play_token=xMW7bFlNx0&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مليونير بالعافية
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مليونير بالعافية
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026090.mkv&play_token=1q2DIfqIpG&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   إلا إذا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   إلا إذا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026088.mkv&play_token=4lHtpPCeoY&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية الواد النمس
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية الواد النمس
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026087.mp4&play_token=oKrHrXQIdC&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الناس اتجننت
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الناس اتجننت
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026086.mp4&play_token=pTqF5CTrcl&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   العصمة في ايد حماتي
+#EXTINF:-1 group-title="  ARABIC PLAYS",   العصمة في ايد حماتي
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026085.mp4&play_token=j55eBnuCyI&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    أولاد دراكولا
+#EXTINF:-1 group-title="  ARABIC PLAYS",    أولاد دراكولا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026084.mp4&play_token=HddH41i5I8&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مطلوب زوجة فوراً
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مطلوب زوجة فوراً
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026083.mp4&play_token=Z22KfPykGK&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   محترم لمدة شهر
+#EXTINF:-1 group-title="  ARABIC PLAYS",   محترم لمدة شهر
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026082.mp4&play_token=PprJJ67tp7&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   فندق السعاده الزوجية
+#EXTINF:-1 group-title="  ARABIC PLAYS",   فندق السعاده الزوجية
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026081.mp4&play_token=XAQV9lEGXd&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   دليل الرجل المتزوج
+#EXTINF:-1 group-title="  ARABIC PLAYS",   دليل الرجل المتزوج
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026080.mp4&play_token=uGdB1g9eIW&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   خد الفلوس واجرى
+#EXTINF:-1 group-title="  ARABIC PLAYS",   خد الفلوس واجرى
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026079.mp4&play_token=HR4kNsPu6y&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية حماتى والمنديل
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية حماتى والمنديل
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026078.mp4&play_token=NDUdjvz5i0&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   شريف رغم أنفه
+#EXTINF:-1 group-title="  ARABIC PLAYS",   شريف رغم أنفه
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026074.mp4&play_token=uw7opDO59R&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية حالة طوارئ
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية حالة طوارئ
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026073.mp4&play_token=tkQs4hQ0UG&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   شيكات بدون رصيد
+#EXTINF:-1 group-title="  ARABIC PLAYS",   شيكات بدون رصيد
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026072.mp4&play_token=mHZsB02G6C&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   يا سلام على كده
+#EXTINF:-1 group-title="  ARABIC PLAYS",   يا سلام على كده
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026071.mp4&play_token=ZGNpXf3bNj&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   وراك يا زمن
+#EXTINF:-1 group-title="  ARABIC PLAYS",   وراك يا زمن
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026070.mp4&play_token=qpsT9DxJfe&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مين ما يحبش زوبة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مين ما يحبش زوبة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026069.mp4&play_token=3pvJ2CcI6a&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية مين ضحك على مين
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية مين ضحك على مين
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026068.mp4&play_token=LhZx8qWQCI&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية (مولود في الوقت الضائع)
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية (مولود في الوقت الضائع)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026067.mp4&play_token=pxTTdihKBy&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    مسرحية (منور ياباشا)
+#EXTINF:-1 group-title="  ARABIC PLAYS",    مسرحية (منور ياباشا)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026066.mp4&play_token=LfX9UTqvy6&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   ليلة القبض على بابا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   ليلة القبض على بابا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026065.mp4&play_token=UiUwZGhvu8&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    مسرحية كلام خواجات
+#EXTINF:-1 group-title="  ARABIC PLAYS",    مسرحية كلام خواجات
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026064.mp4&play_token=Zu2IpiAviy&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    فرحة أمه
+#EXTINF:-1 group-title="  ARABIC PLAYS",    فرحة أمه
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026063.mp4&play_token=QlAuFYPBdJ&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   عائلتي
+#EXTINF:-1 group-title="  ARABIC PLAYS",   عائلتي
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026062.mp4&play_token=vDXjtEU2KN&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   حضرات السادة العيال
+#EXTINF:-1 group-title="  ARABIC PLAYS",   حضرات السادة العيال
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026060.mp4&play_token=x6z7csEN28&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    مسرحية (الصعايدة وصلوا)
+#EXTINF:-1 group-title="  ARABIC PLAYS",    مسرحية (الصعايدة وصلوا)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026059.mp4&play_token=seCvkCFHVa&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية (افتح محضر)
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية (افتح محضر)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026058.mp4&play_token=GCgf6WclB2&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية (أكابر أكابر)
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية (أكابر أكابر)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026057.mp4&play_token=7RvaZDs0rs&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية (المشاغبون في المستشفى)
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية (المشاغبون في المستشفى)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026056.mp4&play_token=1fJLf60lMN&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   ليلة حاولت أنساها
+#EXTINF:-1 group-title="  ARABIC PLAYS",   ليلة حاولت أنساها
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026054.mkv&play_token=sZmnC19iSx&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   لن أعيش في جلباب زوجتي
+#EXTINF:-1 group-title="  ARABIC PLAYS",   لن أعيش في جلباب زوجتي
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026051.mkv&play_token=eBd5qp69AL&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    لعبة الحب والجنان
+#EXTINF:-1 group-title="  ARABIC PLAYS",    لعبة الحب والجنان
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026050.mkv&play_token=e2psSZwTxH&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية كلام خواجات
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية كلام خواجات
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026048.mkv&play_token=wP2sBkQ8nd&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   قشطة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   قشطة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026045.mkv&play_token=QzSfbGPuT8&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية فيلا على كيفك
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية فيلا على كيفك
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026044.mkv&play_token=nD79b4LDh9&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية فى سبيل برقوق
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية فى سبيل برقوق
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026043.mkv&play_token=HQkZEX9ptJ&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   فى إنتظار مغاوري
+#EXTINF:-1 group-title="  ARABIC PLAYS",   فى إنتظار مغاوري
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026042.mkv&play_token=6R6LPHcZXr&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   على بابا والعصابة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   على بابا والعصابة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026041.mkv&play_token=CHlBHPDlP3&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية عصفور ودبور
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية عصفور ودبور
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026039.mkv&play_token=zl2AnyTs64&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   عش المجانين
+#EXTINF:-1 group-title="  ARABIC PLAYS",   عش المجانين
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026038.mkv&play_token=2CtLZiJXEP&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",    عائلة الفك المفترس
+#EXTINF:-1 group-title="  ARABIC PLAYS",    عائلة الفك المفترس
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026037.mkv&play_token=1QzrbCrZbj&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   ضحك ولعب ومزيكا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   ضحك ولعب ومزيكا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026035.mkv&play_token=sB6KaUsljH&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   سيف العرب
+#EXTINF:-1 group-title="  ARABIC PLAYS",   سيف العرب
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026032.mkv&play_token=OltdBvo8f6&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   سيدتي الجميلة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   سيدتي الجميلة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026031.mkv&play_token=tKuHgjCupA&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية سيارة الهانم
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية سيارة الهانم
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026030.mkv&play_token=TC223yv8MB&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   سك على بناتك
+#EXTINF:-1 group-title="  ARABIC PLAYS",   سك على بناتك
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026029.mkv&play_token=CeRNifgfsL&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   سعدية ورايا ورايا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   سعدية ورايا ورايا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026028.mkv&play_token=zwkbr8ZRCx&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   زواج مع الإشتراك في الأرباح
+#EXTINF:-1 group-title="  ARABIC PLAYS",   زواج مع الإشتراك في الأرباح
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026027.mkv&play_token=1NguuekR6S&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   رد قرضي
+#EXTINF:-1 group-title="  ARABIC PLAYS",   رد قرضي
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026024.mkv&play_token=lVQpJd5hlw&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   رجل في المصيدة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   رجل في المصيدة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026023.mkv&play_token=3qidlT2CnD&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   راسب مع مرتبة الشرف
+#EXTINF:-1 group-title="  ARABIC PLAYS",   راسب مع مرتبة الشرف
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026022.mkv&play_token=p69mCD91pi&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية ذكى غبى جدا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية ذكى غبى جدا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026021.mkv&play_token=YGp4725tQV&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   خاربة خاربة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   خاربة خاربة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026020.mkv&play_token=jDwW26Xfk5&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   حواء الساعه 12
+#EXTINF:-1 group-title="  ARABIC PLAYS",   حواء الساعه 12
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026019.mkv&play_token=xjyNSpazq2&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   حزمني يا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   حزمني يا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026018.mkv&play_token=oZsHFBfDax&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية حب وطب ومزيكا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية حب وطب ومزيكا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026017.mkv&play_token=tDMgv8Icay&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   حاميها حراميها
+#EXTINF:-1 group-title="  ARABIC PLAYS",   حاميها حراميها
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026016.mkv&play_token=xPBEDsyBro&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   ورا الباب
+#EXTINF:-1 group-title="  ARABIC PLAYS",   ورا الباب
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026014.mkv&play_token=N7ha64nffp&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   هلّق وقتا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   هلّق وقتا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026013.mkv&play_token=7re2u38DSX&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   ناطرينو
+#EXTINF:-1 group-title="  ARABIC PLAYS",   ناطرينو
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026012.mkv&play_token=KkUsOySi6C&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مع الوقت يمكن
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مع الوقت يمكن
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026011.mkv&play_token=tzYz5ZcA8i&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مطلوب
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مطلوب
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026010.mkv&play_token=jbCRSOnFNP&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مصيبة جديدة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مصيبة جديدة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026009.mkv&play_token=mnFtgen5Nv&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مش مختلفين
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مش مختلفين
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026008.mkv&play_token=ZEMQ9w6mzk&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   كذّاب كبير
+#EXTINF:-1 group-title="  ARABIC PLAYS",   كذّاب كبير
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026007.mkv&play_token=I7VfxCHApj&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية عالطريق
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية عالطريق
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026006.mkv&play_token=qSbLu9pE9w&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   شو القضية
+#EXTINF:-1 group-title="  ARABIC PLAYS",   شو القضية
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026005.mkv&play_token=xkQv9yZXFF&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية بالكواليس
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية بالكواليس
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026004.mkv&play_token=X5M6cHJtUD&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الاول بالصّف
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الاول بالصّف
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026002.mkv&play_token=Yp9JXJDyQ2&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   مسرحية إلا إذا... تغيّر شي
+#EXTINF:-1 group-title="  ARABIC PLAYS",   مسرحية إلا إذا... تغيّر شي
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026001.mkv&play_token=xr6jCigXaf&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   جحا يحكم المدينة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   جحا يحكم المدينة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1026000.mkv&play_token=TAG9DgDDav&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   باللو
+#EXTINF:-1 group-title="  ARABIC PLAYS",   باللو
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025996.mkv&play_token=28R05tCs1f&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   بابانا عاوز كده
+#EXTINF:-1 group-title="  ARABIC PLAYS",   بابانا عاوز كده
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025995.mkv&play_token=5uAPQdbdsQ&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الواد الجن
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الواد الجن
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025994.mkv&play_token=R7EbzVyCXI&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   المتزوجون
+#EXTINF:-1 group-title="  ARABIC PLAYS",   المتزوجون
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025993.mkv&play_token=ynk5RKY36t&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   القضية رقم واحد
+#EXTINF:-1 group-title="  ARABIC PLAYS",   القضية رقم واحد
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025992.mkv&play_token=vCxc4m4qv7&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   السبنسة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   السبنسة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025989.mkv&play_token=lUfpCqajjV&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الزنقة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الزنقة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025988.mkv&play_token=MMkFWnseIu&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   البيجاما الحمراء
+#EXTINF:-1 group-title="  ARABIC PLAYS",   البيجاما الحمراء
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025984.mkv&play_token=xBeZOxD6CG&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   البيت بيتك
+#EXTINF:-1 group-title="  ARABIC PLAYS",   البيت بيتك
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025983.mkv&play_token=hhQ8XWUCNs&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الابندا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الابندا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025982.mkv&play_token=o2YnthYAJR&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   الأستاذ مزيكا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   الأستاذ مزيكا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025981.mkv&play_token=fnjTnUPjaQ&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   إنها حقا عائلة محترمة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   إنها حقا عائلة محترمة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025980.mkv&play_token=LmcYTUBsvI&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   أولاد دراكولا
+#EXTINF:-1 group-title="  ARABIC PLAYS",   أولاد دراكولا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025979.mkv&play_token=DOKcL6LkOr&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   أنا وهي والكمبيوتر
+#EXTINF:-1 group-title="  ARABIC PLAYS",   أنا وهي والكمبيوتر
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025977.mkv&play_token=zvX5ra52HT&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   أنا مين فيهم
+#EXTINF:-1 group-title="  ARABIC PLAYS",   أنا مين فيهم
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025976.mkv&play_token=RUCdaBrm80&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   أصل وخمسة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   أصل وخمسة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025975.mkv&play_token=dwA0FtDXD7&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   صح لسانك
+#EXTINF:-1 group-title="  ARABIC PLAYS",   صح لسانك
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025973.mkv&play_token=KPptQExcWW&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   ما يصح إلا الصحيح
+#EXTINF:-1 group-title="  ARABIC PLAYS",   ما يصح إلا الصحيح
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025972.mkv&play_token=ybGGchWyYF&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   بو سارة في العمارة
+#EXTINF:-1 group-title="  ARABIC PLAYS",   بو سارة في العمارة
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025965.mkv&play_token=jFh6Tx6x5K&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   آه يا درب الزلق
+#EXTINF:-1 group-title="  ARABIC PLAYS",   آه يا درب الزلق
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025964.mkv&play_token=SstNzrEPE3&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   727
+#EXTINF:-1 group-title="  ARABIC PLAYS",   727
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025963.mkv&play_token=DqT3zqo6Gk&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",   عالمكشوف
+#EXTINF:-1 group-title="  ARABIC PLAYS",   عالمكشوف
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=1025962.mkv&play_token=yXKxjOCUSo&type=movie    
-#EXTINF:-1 group-title="  ARABIC PLAYS | مسرحيات عربية",  مسرجية كنز الدنيا
+#EXTINF:-1 group-title="  ARABIC PLAYS",  مسرجية كنز الدنيا
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=914416.mkv&play_token=e1r7K2DbEn&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Zawj Taht Al Talab 
+#EXTINF:-1 group-title="ADEL AMAM", Zawj Taht Al Talab 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800398.mkv&play_token=n0cPBLbxkt&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Tiyour Al Thalam 
+#EXTINF:-1 group-title="ADEL AMAM", Tiyour Al Thalam 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800397.mkv&play_token=QijOAIHTVc&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Salam Ya Sahby
+#EXTINF:-1 group-title="ADEL AMAM", Salam Ya Sahby
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800396.mkv&play_token=dCajariu2P&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Ragab Fowq Safeh Sakhan
+#EXTINF:-1 group-title="ADEL AMAM", Ragab Fowq Safeh Sakhan
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800395.mkv&play_token=dqGmXEG4Gk&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Oumahat Fi Al Manfa 
+#EXTINF:-1 group-title="ADEL AMAM", Oumahat Fi Al Manfa 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800394.mkv&play_token=zgxXDYmoKL&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", خمسة باب (Khamsa Bab)
+#EXTINF:-1 group-title="ADEL AMAM", خمسة باب (Khamsa Bab)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800393.mkv&play_token=be8Ubyv2KY&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Khali Balak Min Aklak 
+#EXTINF:-1 group-title="ADEL AMAM", Khali Balak Min Aklak 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800392.mkv&play_token=MzVCN0b8GM&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Khali Balak Meen Jiranak 
+#EXTINF:-1 group-title="ADEL AMAM", Khali Balak Meen Jiranak 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800391.mkv&play_token=s07ccr8Od7&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Harami Al Hob
+#EXTINF:-1 group-title="ADEL AMAM", Harami Al Hob
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800390.mkv&play_token=Sko0kdioTk&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Hanafi Al Oubaha
+#EXTINF:-1 group-title="ADEL AMAM", Hanafi Al Oubaha
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800389.mkv&play_token=PV2GkqcTnt&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Esabat Hamada Wa Toutou 
+#EXTINF:-1 group-title="ADEL AMAM", Esabat Hamada Wa Toutou 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800388.mkv&play_token=WeqDI9zkqk&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Ehtaris Min Al Khot 
+#EXTINF:-1 group-title="ADEL AMAM", Ehtaris Min Al Khot 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800387.mkv&play_token=56ByWapmbL&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Ehna Bitou Al Autobees 
+#EXTINF:-1 group-title="ADEL AMAM", Ehna Bitou Al Autobees 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800386.mkv&play_token=fmmpwi9gI7&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Bakheet WI Adeela 2 
+#EXTINF:-1 group-title="ADEL AMAM", Bakheet WI Adeela 2 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800385.mkv&play_token=38KPiQ5Qip&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Zawj Taht Al Talab 
+#EXTINF:-1 group-title="ADEL AMAM", Zawj Taht Al Talab 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800398.mkv&play_token=e9lxPzcTuu&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Tiyour Al Thalam 
+#EXTINF:-1 group-title="ADEL AMAM", Tiyour Al Thalam 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800397.mkv&play_token=3T83ZDwFaI&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Salam Ya Sahby
+#EXTINF:-1 group-title="ADEL AMAM", Salam Ya Sahby
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800396.mkv&play_token=xiIlHTRPxX&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Ragab Fowq Safeh Sakhan
+#EXTINF:-1 group-title="ADEL AMAM", Ragab Fowq Safeh Sakhan
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800395.mkv&play_token=i2zr75f76P&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Oumahat Fi Al Manfa 
+#EXTINF:-1 group-title="ADEL AMAM", Oumahat Fi Al Manfa 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800394.mkv&play_token=R2zU6moM4p&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", خمسة باب (Khamsa Bab)
+#EXTINF:-1 group-title="ADEL AMAM", خمسة باب (Khamsa Bab)
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800393.mkv&play_token=jVGSCkJbKr&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Khali Balak Min Aklak 
+#EXTINF:-1 group-title="ADEL AMAM", Khali Balak Min Aklak 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800392.mkv&play_token=PGGqahBojC&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Khali Balak Meen Jiranak 
+#EXTINF:-1 group-title="ADEL AMAM", Khali Balak Meen Jiranak 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800391.mkv&play_token=nUzOEgsrC1&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Harami Al Hob
+#EXTINF:-1 group-title="ADEL AMAM", Harami Al Hob
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800390.mkv&play_token=H6TPAKQ6PV&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Hanafi Al Oubaha
+#EXTINF:-1 group-title="ADEL AMAM", Hanafi Al Oubaha
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800389.mkv&play_token=bTGSWDcrqY&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Esabat Hamada Wa Toutou 
+#EXTINF:-1 group-title="ADEL AMAM", Esabat Hamada Wa Toutou 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800388.mkv&play_token=1PHSFWZSWq&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Ehtaris Min Al Khot 
+#EXTINF:-1 group-title="ADEL AMAM", Ehtaris Min Al Khot 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800387.mkv&play_token=RNwUdGMzot&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Ehna Bitou Al Autobees 
+#EXTINF:-1 group-title="ADEL AMAM", Ehna Bitou Al Autobees 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800386.mkv&play_token=5uzvpDd0pi&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Bakheet WI Adeela 2 
+#EXTINF:-1 group-title="ADEL AMAM", Bakheet WI Adeela 2 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800385.mkv&play_token=D2z9scop8E&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Ayb Ya Loulou Ayb 
+#EXTINF:-1 group-title="ADEL AMAM", Ayb Ya Loulou Ayb 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800384.mkv&play_token=AXK9d8TkX9&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Ana Eli Atalt Al Hanash 
+#EXTINF:-1 group-title="ADEL AMAM", Ana Eli Atalt Al Hanash 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800383.mkv&play_token=54dBfv2o3P&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Ala Bab Elwazer
+#EXTINF:-1 group-title="ADEL AMAM", Ala Bab Elwazer
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800382.mkv&play_token=KnWxZ6bl3W&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Zaeem 
+#EXTINF:-1 group-title="ADEL AMAM", Al Zaeem 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800381.mkv&play_token=5KvW5chz7A&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Wad Sayeh Al Shaghal 
+#EXTINF:-1 group-title="ADEL AMAM", Al Wad Sayeh Al Shaghal 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800380.mkv&play_token=xJMU8neIaK&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Tajrouba Al Danimarkia
+#EXTINF:-1 group-title="ADEL AMAM", Al Tajrouba Al Danimarkia
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800379.mkv&play_token=MciULYGT6v&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Nawm Fi Al Asal 
+#EXTINF:-1 group-title="ADEL AMAM", Al Nawm Fi Al Asal 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800378.mkv&play_token=QK5yYp7IZu&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Namir Wal Ountha 
+#EXTINF:-1 group-title="ADEL AMAM", Al Namir Wal Ountha 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800377.mkv&play_token=XugJjEC0MO&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Moulid 
+#EXTINF:-1 group-title="ADEL AMAM", Al Moulid 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800376.mkv&play_token=NaiCS4Sfqu&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Mashbouh 
+#EXTINF:-1 group-title="ADEL AMAM", Al Mashbouh 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800375.mkv&play_token=DU8lRiwZTS&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Mansi
+#EXTINF:-1 group-title="ADEL AMAM", Al Mansi
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800374.mkv&play_token=wvOR4zD4Co&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Loub Maa Al Kibar
+#EXTINF:-1 group-title="ADEL AMAM", Al Loub Maa Al Kibar
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800373.mkv&play_token=7nl7aEjIia&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Jaheem 
+#EXTINF:-1 group-title="ADEL AMAM", Al Jaheem 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800372.mkv&play_token=437FIJsFDl&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Irhabi 
+#EXTINF:-1 group-title="ADEL AMAM", Al Irhabi 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800371.mkv&play_token=3yQQkVfGHA&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Irhab Wa Al Kabab 
+#EXTINF:-1 group-title="ADEL AMAM", Al Irhab Wa Al Kabab 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800370.mkv&play_token=clpIPTEz8R&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Ins Wa Al Jin 
+#EXTINF:-1 group-title="ADEL AMAM", Al Ins Wa Al Jin 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800369.mkv&play_token=GTJw2zN6c5&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Halfout 
+#EXTINF:-1 group-title="ADEL AMAM", Al Halfout 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800368.mkv&play_token=m6DvXdPQM4&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Ghoul
+#EXTINF:-1 group-title="ADEL AMAM", Al Ghoul
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800367.mkv&play_token=gPQtZTYpgm&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Bahth an Fadiha 
+#EXTINF:-1 group-title="ADEL AMAM", Al Bahth an Fadiha 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800366.mkv&play_token=dYdSceDVFR&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Azwaj Al Shayatin 
+#EXTINF:-1 group-title="ADEL AMAM", Al Azwaj Al Shayatin 
 http://line.ciao-ott.net:80/play/movie.php?mac=00:1A:79:90:11:fc&stream=800365.mkv&play_token=vLHVTvhZbY&type=movie    
-#EXTINF:-1 group-title="  أفلام عادل إمام [ADEL AMAM]", Al Avocato 
+#EXTINF:-1 group-title="ADEL AMAM", Al Avocato 
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/133.jpg" group-title="WATCH IT",AR| أذكى غبي في العالم
 http://line-tt.space:80/play/live.php?mac=00:1A:79:FC:d6:D7&stream=1209407&extension=ts&play_token=Ix3atY38yC
 #EXTINF:-1 tvg-logo="http://103.176.90.118/stalker_portal/misc/logos/320/133.jpg" group-title="WATCH IT",AR| الكابتن جودة
