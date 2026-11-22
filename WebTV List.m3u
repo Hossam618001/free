@@ -163,6 +163,12 @@ http://stream.mcquack.net/378/index.m3u8
 http://stream.mcquack.net/48/index.m3u8
 #EXTINF:-1 tvg-name="Qatar Television The Holy Quran" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-id="QatarTelevisionTheHolyQuran.qa" tvg-chno="3" tvg-country="QA" group-title="QURAN TV",Qatar Quran
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master480p.m3u8
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png" group-title="QURAN TV",Holy Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://aloula.faulio.com/storage/mediagallery/da/6c/fullhd_7eaf7e165c4cad5b3a45eff65d2011e18be5d670.png" group-title="QURAN TV",Al Quran Al Kareem TV
+http://m.live.net.sa:1935/live/quran/gmswf.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="QURAN TV",Iqraa Quran
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="QURAN TV",أحمد الحذيفي AHMAD ALHUTHAIFI
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:a6:5c:a8&stream=1665727&extension=ts&play_token=mgk7hJ5ms1
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARGENTINA/|AR| QURAN TV/QURAN TV.png" group-title="QURAN TV",أحمد الحواشي AHMAD AL HAWASHI
@@ -411,6 +417,8 @@ http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=242236&ext
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=242235&extension=ts&play_token=N9e2dzJEIL
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/BEIN SPORTS/BEIN SPORTS 9.png" group-title="BEIN SPORTS",BEIN SPORTS 9
 http://line.hey-ott.net:80/play/live.php?mac=00:1A:79:44:51:04&stream=242234&extension=ts&play_token=3J4H4ciDr6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtlnZbq.png" group-title="Bab Al Hara
+https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924858.png" group-title="ARABIC FULL SD",AR - ZEE ALWAN LQ
 http://weko-azure.xyz:80/play/live.php?mac=00:1A:79:b6:e2:67&stream=924858&extension=ts&play_token=qXqEwfID97
 #EXTINF:-1 tvg-logo="http://103.176.90.154/picons/logos/arabic/924793.png" group-title="ARABIC FULL SD",AR - MIX BEL ARABY LQ
