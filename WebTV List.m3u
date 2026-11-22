@@ -61,6 +61,12 @@ http://htvmada.mada.ps:8888/kolalnas/tracks-v1a1/mono.m3u8
 https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2Fstream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttp%3A%2F%2Fhtvmada.mada.ps%3A8888%2Fkolalnas%2Ftracks-v1a1%2Fmono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d7MhtrQ/raya1.png" group-title="PAL.HOSSAM",raya1-BlAck/sat*9618001
 http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7MhtrQ/raya1.png" group-title="PAL.HOSSAM",raya1-World
+http://platform.topuphost.com:8560/api/Stream/GetModifiedM3U8?token=bahloool&url=https://vstream3.hadara.ps:8443/RayaHDTV1_web/web/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7MhtrQ/raya1.png" group-title="PAL.HOSSAM",raya2-BlAck/sat*9618001
+http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7MhtrQ/raya1.png" group-title="PAL.HOSSAM",raya2-World
+https://streamhub-tv.lovable.app/api/public/stream?u=http%3A%2F%2Fplatform.topuphost.com%3A8560%2Fapi%2FStream%2FGetModifiedM3U8%3Ftoken%3Dbahloool%26url%3Dhttps%3A%2F%2Fvstream3.hadara.ps%3A8443%2FRayaHDTV3_web%2Fweb%2Fchunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FhZYvQw/NABLS.png" group-title="PAL.HOSSAM",nabls quran
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nfc070T/raj.png" group-title="PAL.HOSSAM",bLaCK-9618001-RAJEEN
