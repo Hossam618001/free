@@ -19,6 +19,13 @@ https://flu.systemnet.tv/hekaya/tracks-v1a1/mono.m3u8
 http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4FgRGjr/horea.jpg" group-title="PAL.HOSSAM",horyaa-sport2
 http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
+https://htvint.mada.ps/alhouriyah3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4FgRGjr/horea.jpg" group-title="PAL.HOSSAM",horyaa-mada
+https://htvint.mada.ps/alhouriyah/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4FgRGjr/horea.jpg" group-title="PAL.HOSSAM",horyaa2-mada
+https://htvint.mada.ps/alhouriyah2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4FgRGjr/horea.jpg" group-title="PAL.HOSSAM",horyaa-sport-mada
+https://htvint.mada.ps/alhouriyah3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0yLMQ7Cn/nawras-logo.png" group-title="PAL.HOSSAM",nawras tv
 http://tv.jawa.ps:1935/jawa/nawrastv/chunklist_w540950429.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2597T2B/wtn.png" group-title="PAL.HOSSAM",wattan tv
